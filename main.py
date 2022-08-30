@@ -1,7 +1,11 @@
+from operator import truediv
+from tabnanny import check
 import pandas as pd
 
 
-df = pd.read_csv ('inflation_data.csv')
+inflation_df = pd.read_csv ('inflation_data.csv')
+population_df = pd.read_csv('population_data.csv')
+
 
 
 
@@ -13,6 +17,14 @@ df = pd.read_csv ('inflation_data.csv')
 # df.set_index('Country', inplace=True, drop=True)
 
 # print(df.loc[df["Country"] == "Australia", "1964", "1965"])
+
+def checkAverageInflationDictKeys(targetCountry):
+    for yearRange in averageInflationDict:
+        for countryList in range(len(averageInflationDict[yearRange])):
+            if targetCountry in averageInflationDict[yearRange][countryList]:
+                return True
+            else:
+                return False
 
 
 def createYearsList(startYear, endYear, step):
@@ -41,42 +53,61 @@ def createYearsList(startYear, endYear, step):
     return listOfYearsByStep
 
 
-            
-# print(df.loc[13, ["1971", "1972", "1973", "1974", "1975"]].mean())
-
-
 targetColumns = createYearsList(1961, 2021, 5)
 
-stepYearDict = {}
+averageInflationDict = {}
 
 # Initilise stepYearDict with empty arrays
 for years in targetColumns:
         stepYearDictName = str(years[0]) +"-"+str(years[-1])
-        stepYearDict[stepYearDictName] = []
+        averageInflationDict[stepYearDictName] = []
 
-for x in range(len(df.index)):
+## Find inflation rates based on input 
+for x in range(len(inflation_df.index)):
     for y in targetColumns:
-        stepYearDictKey = str(y[0]) +"-"+str(y[-1])
-        stepYearAvg = df.loc[x, y].mean()
+        avgInflationDictKey = str(y[0]) +"-"+str(y[-1])
+        stepYearAvg = inflation_df.loc[x, y].mean()
         if stepYearAvg > 30:
             countryDict = {}
-            countryName = df._get_value(x,"Country")
+            countryName = inflation_df._get_value(x,"Country")
             countryDict[countryName] = float(stepYearAvg)
-            stepYearDict[stepYearDictKey].append(countryDict)
-            # stepYearsWithCountry = y.copy()
-            # stepYearsWithCountry.insert(0, "Country")
-            # print(df.loc[x, stepYearsWithCountry])
-            # print(f"Average inflation: {stepYearAvg}")
-            # print(stepYearAvg)
-            # print(countryName)
+            averageInflationDict[avgInflationDictKey].append(countryDict)
 
 
-print(stepYearDict)
 
+# Initilise averagePopulationDict with empty arrays
+averagePopulationDict = {}
+for years in targetColumns:
+        stepYearDictName = str(years[0]) +"-"+str(years[-1])
+        averagePopulationDict[stepYearDictName] = []
+
+## Find average population based on input
     
+for x in range(len(population_df.index)):
+    for y in targetColumns:
+        stepYearDictKey = str(y[0]) +"-"+str(y[-1])
+        stepYearAvg = population_df.loc[x, y].mean()
+        countryName = population_df._get_value(x,"Country")
+        if checkAverageInflationDictKeys(countryName):
+            countryDict = {}
+            countryDict[countryName] = float(stepYearAvg)
+            averagePopulationDict[stepYearDictKey].append(countryDict)
 
 
 
-    
+print(averagePopulationDict)
 
+# print(averageInflationDict)
+
+# indonesia = "Indonesia"
+
+# print("Indonesia" in averageInflationDict)
+
+# print(averageInflationDict.keys())
+
+
+
+            # print(len(countryList))
+            # for country in range(len(countryList)):
+            #     print(countryList[country])
 
