@@ -18,13 +18,15 @@ population_df = pd.read_csv('population_data.csv')
 
 # print(df.loc[df["Country"] == "Australia", "1964", "1965"])
 
-def checkAverageInflationDictKeys(targetCountry):
-    for yearRange in averageInflationDict:
-        for countryList in range(len(averageInflationDict[yearRange])):
-            if targetCountry in averageInflationDict[yearRange][countryList]:
+
+
+def checkAverageInflationDictKeys(targetCountry, inputList):
+    for x in range(len(inputList)):
+        if targetCountry in inputList[x]:
                 return True
-            else:
-                return False
+    
+    return False
+
 
 
 def createYearsList(startYear, endYear, step):
@@ -82,26 +84,27 @@ for years in targetColumns:
         averagePopulationDict[stepYearDictName] = []
 
 ## Find average population based on input
-    
 for x in range(len(population_df.index)):
     for y in targetColumns:
         stepYearDictKey = str(y[0]) +"-"+str(y[-1])
         stepYearAvg = population_df.loc[x, y].mean()
         countryName = population_df._get_value(x,"Country")
-        if checkAverageInflationDictKeys(countryName):
+        if checkAverageInflationDictKeys(countryName, averageInflationDict[stepYearDictKey]):
             countryDict = {}
             countryDict[countryName] = float(stepYearAvg)
             averagePopulationDict[stepYearDictKey].append(countryDict)
 
 
 
+
 print(averagePopulationDict)
 
-# print(averageInflationDict)
 
-# indonesia = "Indonesia"
 
-# print("Indonesia" in averageInflationDict)
+# print(averagePopulationDict)
+
+
+
 
 # print(averageInflationDict.keys())
 
