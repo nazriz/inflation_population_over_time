@@ -1,10 +1,13 @@
+from functools import total_ordering
 from operator import truediv
+from re import X
 from tabnanny import check
 import pandas as pd
 
 
 inflation_df = pd.read_csv ('inflation_data.csv')
 population_df = pd.read_csv('population_data.csv')
+total_world_pop_df = pd.read_csv('world_population_by_year.csv')
 
 
 
@@ -96,21 +99,8 @@ for x in range(len(population_df.index)):
 
 
 
-
-print(averagePopulationDict)
-
-
-
-# print(averagePopulationDict)
-
-
-
-
-# print(averageInflationDict.keys())
-
-
-
-            # print(len(countryList))
-            # for country in range(len(countryList)):
-            #     print(countryList[country])
-
+worldPopulationDict = {}
+for x in targetColumns:
+    yearDictName = str(x[0]) +"-"+str(x[-1])
+    worldPopulationDict[yearDictName] = total_world_pop_df[x].mean(axis=1).astype(int).values[0]
+   
