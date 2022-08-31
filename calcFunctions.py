@@ -61,7 +61,7 @@ def averageInflationByCountryByYearRange(inputDf, yearsRangeList):
             if stepYearAvg > 30:
                 countryDict = {}
                 countryName = inputDf._get_value(x,"Country")
-                countryDict[countryName] = float(stepYearAvg)
+                countryDict[countryName] = str(round(float(stepYearAvg),2)) + " %"
                 averageInflationDict[avgInflationDictKey].append(countryDict)
     return averageInflationDict
 
@@ -80,7 +80,7 @@ def averagePopulationByCountryByYearYange(inputDf, inflationDict, yearsRangeList
             countryName = inputDf._get_value(x,"Country")
             if checkAverageInflationDictKeys(countryName, inflationDict[stepYearDictKey]):
                 countryDict = {}
-                countryDict[countryName] = float(stepYearAvg)
+                countryDict[countryName] = int(stepYearAvg)
                 averagePopulationDict[stepYearDictKey].append(countryDict)
 
     return averagePopulationDict
