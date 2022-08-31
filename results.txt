@@ -1,0 +1,509 @@
+
+ ==========================================
+1961-1965 World Population: 3,213,365,449
+Indonesia 
+ Inflation Rate: 141.35 % 
+ Population: 95,099,172
+ 
+Uruguay 
+ Inflation Rate: 30.77 % 
+ Population: 2,634,122
+ 
+ Between 1961-1965, 3.04 % of the world's population (97,733,294 people) 
+ subjected to inflation rates greater than 30%. 
+ ==========================================
+1966-1970 World Population: 3,552,881,878
+Indonesia 
+ Inflation Rate: 279.8 % 
+ Population: 108,844,534
+ 
+Uruguay 
+ Inflation Rate: 65.07 % 
+ Population: 2,770,511
+ 
+ Between 1966-1970, 3.14 % of the world's population (111,615,045 people) 
+ subjected to inflation rates greater than 30%. 
+ ==========================================
+1971-1975 World Population: 3,927,692,975
+Chile 
+ Inflation Rate: 266.03 % 
+ Population: 10,266,666
+ 
+Uruguay 
+ Inflation Rate: 71.21 % 
+ Population: 2,823,224
+ 
+ Between 1971-1975, 0.33 % of the world's population (13,089,890 people) 
+ subjected to inflation rates greater than 30%. 
+ ==========================================
+1976-1980 World Population: 4,305,443,207
+Chile 
+ Inflation Rate: 82.5 % 
+ Population: 11,088,609
+ 
+Congo, Dem. Rep. 
+ Inflation Rate: 69.16 % 
+ Population: 24,957,697
+ 
+Ghana 
+ Inflation Rate: 70.03 % 
+ Population: 10,609,262
+ 
+Iceland 
+ Inflation Rate: 41.81 % 
+ Population: 223,872
+ 
+Israel 
+ Inflation Rate: 65.16 % 
+ Population: 3,700,000
+ 
+Peru 
+ Inflation Rate: 51.05 % 
+ Population: 16,688,269
+ 
+Turkiye 
+ Inflation Rate: 52.63 % 
+ Population: 42,061,569
+ 
+Uruguay 
+ Inflation Rate: 56.74 % 
+ Population: 2,877,025
+ 
+ Between 1976-1980, 2.61 % of the world's population (112,206,303 people) 
+ subjected to inflation rates greater than 30%. 
+ ==========================================
+1981-1985 World Population: 4,701,777,193
+Bolivia 
+ Inflation Rate: 2692.45 % 
+ Population: 5,935,568
+ 
+Brazil 
+ Inflation Rate: 151.08 % 
+ Population: 129,435,023
+ 
+Congo, Dem. Rep. 
+ Inflation Rate: 44.94 % 
+ Population: 28,432,473
+ 
+Costa Rica 
+ Inflation Rate: 37.36 % 
+ Population: 2,594,581
+ 
+Ghana 
+ Inflation Rate: 62.33 % 
+ Population: 12,049,590
+ 
+Iceland 
+ Inflation Rate: 49.77 % 
+ Population: 236,501
+ 
+Israel 
+ Inflation Rate: 213.02 % 
+ Population: 4,096,800
+ 
+Mexico 
+ Inflation Rate: 62.38 % 
+ Population: 72,702,339
+ 
+Peru 
+ Inflation Rate: 104.93 % 
+ Population: 18,875,084
+ 
+Poland 
+ Inflation Rate: 35.03 % 
+ Population: 36,561,379
+ 
+Sudan 
+ Inflation Rate: 32.09 % 
+ Population: 16,113,026
+ 
+Slovenia 
+ Inflation Rate: 49.21 % 
+ Population: 1,922,596
+ 
+Turkiye 
+ Inflation Rate: 38.3 % 
+ Population: 47,067,075
+ 
+Tanzania 
+ Inflation Rate: 30.21 % 
+ Population: 20,360,824
+ 
+Uruguay 
+ Inflation Rate: 45.95 % 
+ Population: 2,973,058
+ 
+ Between 1981-1985, 8.49 % of the world's population (399,355,917 people) 
+ subjected to inflation rates greater than 30%. 
+ ==========================================
+1986-1990 World Population: 5,144,637,737
+Bolivia 
+ Inflation Rate: 67.84 % 
+ Population: 6,583,645
+ 
+Brazil 
+ Inflation Rate: 1076.61 % 
+ Population: 143,591,911
+ 
+Congo, Dem. Rep. 
+ Inflation Rate: 75.9 % 
+ Population: 32,546,630
+ 
+Dominican Republic 
+ Inflation Rate: 31.23 % 
+ Population: 6,864,340
+ 
+Ecuador 
+ Inflation Rate: 46.98 % 
+ Population: 9,758,644
+ 
+Ghana 
+ Inflation Rate: 31.64 % 
+ Population: 13,958,118
+ 
+Guinea-Bissau 
+ Inflation Rate: 58.02 % 
+ Population: 933,475
+ 
+Croatia 
+ Inflation Rate: 453.81 % 
+ Population: 4,752,205
+ 
+Lao PDR 
+ Inflation Rate: 48.49 % 
+ Population: 4,023,573
+ 
+Mexico 
+ Inflation Rate: 75.78 % 
+ Population: 80,779,995
+ 
+Peru 
+ Inflation Rate: 2342.22 % 
+ Population: 21,152,151
+ 
+Poland 
+ Inflation Rate: 182.82 % 
+ Population: 37,804,192
+ 
+Sudan 
+ Inflation Rate: 48.32 % 
+ Population: 18,910,545
+ 
+Slovenia 
+ Inflation Rate: 452.05 % 
+ Population: 1,989,089
+ 
+Syrian Arab Republic 
+ Inflation Rate: 32.18 % 
+ Population: 11,722,158
+ 
+Turkiye 
+ Inflation Rate: 53.17 % 
+ Population: 52,039,495
+ 
+Tanzania 
+ Inflation Rate: 31.05 % 
+ Population: 23,710,777
+ 
+Uruguay 
+ Inflation Rate: 79.02 % 
+ Population: 3,069,429
+ 
+Zambia 
+ Inflation Rate: 76.86 % 
+ Population: 7,595,023
+ 
+ Between 1986-1990, 9.36 % of the world's population (481,785,395 people) 
+ subjected to inflation rates greater than 30%. 
+ ==========================================
+1991-1995 World Population: 5,580,434,041
+Angola 
+ Inflation Rate: 1075.61 % 
+ Population: 13,086,052
+ 
+Albania 
+ Inflation Rate: 85.34 % 
+ Population: 3,227,287
+ 
+Armenia 
+ Inflation Rate: 1774.86 % 
+ Population: 3,362,438
+ 
+Azerbaijan 
+ Inflation Rate: 797.84 % 
+ Population: 7,485,910
+ 
+Bulgaria 
+ Inflation Rate: 132.15 % 
+ Population: 8,498,900
+ 
+Belarus 
+ Inflation Rate: 1373.53 % 
+ Population: 10,214,071
+ 
+Brazil 
+ Inflation Rate: 1090.8 % 
+ Population: 156,841,816
+ 
+Congo, Dem. Rep. 
+ Inflation Rate: 6517.11 % 
+ Population: 38,777,440
+ 
+Ecuador 
+ Inflation Rate: 39.69 % 
+ Population: 10,962,654
+ 
+Estonia 
+ Inflation Rate: 55.41 % 
+ Population: 1,497,536
+ 
+Georgia 
+ Inflation Rate: 162.72 % 
+ Population: 4,822,859
+ 
+Guinea-Bissau 
+ Inflation Rate: 47.17 % 
+ Population: 1,043,298
+ 
+Croatia 
+ Inflation Rate: 471.7 % 
+ Population: 4,627,471
+ 
+Iraq 
+ Inflation Rate: 261.61 % 
+ Population: 18,987,194
+ 
+Jamaica 
+ Inflation Rate: 41.08 % 
+ Population: 2,485,541
+ 
+Kazakhstan 
+ Inflation Rate: 1026.76 % 
+ Population: 16,246,697
+ 
+Lithuania 
+ Inflation Rate: 385.74 % 
+ Population: 3,674,621
+ 
+Latvia 
+ Inflation Rate: 280.4 % 
+ Population: 2,566,801
+ 
+Moldova 
+ Inflation Rate: 789.18 % 
+ Population: 2,968,470
+ 
+North Macedonia 
+ Inflation Rate: 71.48 % 
+ Population: 1,986,191
+ 
+Mongolia 
+ Inflation Rate: 118.59 % 
+ Population: 2,260,620
+ 
+Malawi 
+ Inflation Rate: 35.42 % 
+ Population: 9,717,356
+ 
+Nigeria 
+ Inflation Rate: 48.93 % 
+ Population: 102,754,426
+ 
+Peru 
+ Inflation Rate: 113.3 % 
+ Population: 23,409,582
+ 
+Poland 
+ Inflation Rate: 44.15 % 
+ Population: 38,441,783
+ 
+Romania 
+ Inflation Rate: 173.2 % 
+ Population: 22,794,640
+ 
+Russian Federation 
+ Inflation Rate: 459.79 % 
+ Population: 148,434,977
+ 
+Sudan 
+ Inflation Rate: 105.27 % 
+ Population: 22,509,745
+ 
+Serbia 
+ Inflation Rate: 82.66 % 
+ Population: 7,660,272
+ 
+Suriname 
+ Inflation Rate: 163.44 % 
+ Population: 427,729
+ 
+Slovenia 
+ Inflation Rate: 78.2 % 
+ Population: 1,993,397
+ 
+Turkiye 
+ Inflation Rate: 79.3 % 
+ Population: 56,658,802
+ 
+Ukraine 
+ Inflation Rate: 2000.95 % 
+ Population: 51,952,860
+ 
+Uruguay 
+ Inflation Rate: 62.3 % 
+ Population: 3,177,854
+ 
+Yemen, Rep. 
+ Inflation Rate: 41.13 % 
+ Population: 13,620,259
+ 
+Zambia 
+ Inflation Rate: 107.24 % 
+ Population: 8,664,169
+ 
+ Between 1991-1995, 14.83 % of the world's population (827,841,718 people) 
+ subjected to inflation rates greater than 30%. 
+ ==========================================
+1996-2000 World Population: 5,984,492,911
+Angola 
+ Inflation Rate: 1008.95 % 
+ Population: 15,378,848
+ 
+Bulgaria 
+ Inflation Rate: 242.31 % 
+ Population: 8,262,495
+ 
+Belarus 
+ Inflation Rate: 130.36 % 
+ Population: 10,071,062
+ 
+Congo, Dem. Rep. 
+ Inflation Rate: 303.78 % 
+ Population: 44,891,968
+ 
+Ecuador 
+ Inflation Rate: 47.89 % 
+ Population: 12,195,261
+ 
+Lao PDR 
+ Inflation Rate: 56.37 % 
+ Population: 5,141,027
+ 
+Malawi 
+ Inflation Rate: 30.17 % 
+ Population: 10,568,622
+ 
+Romania 
+ Inflation Rate: 68.83 % 
+ Population: 22,519,067
+ 
+Russian Federation 
+ Inflation Rate: 39.35 % 
+ Population: 147,511,583
+ 
+Sudan 
+ Inflation Rate: 45.78 % 
+ Population: 26,022,669
+ 
+Serbia 
+ Inflation Rate: 52.53 % 
+ Population: 7,567,757
+ 
+Suriname 
+ Inflation Rate: 36.72 % 
+ Population: 459,706
+ 
+Turkiye 
+ Inflation Rate: 74.1 % 
+ Population: 61,330,620
+ 
+Ukraine 
+ Inflation Rate: 31.55 % 
+ Population: 50,129,480
+ 
+ Between 1996-2000, 7.05 % of the world's population (422,050,165 people) 
+ subjected to inflation rates greater than 30%. 
+ ==========================================
+2001-2005 World Population: 6,381,730,264
+Angola 
+ Inflation Rate: 85.24 % 
+ Population: 18,155,678
+ 
+Belarus 
+ Inflation Rate: 32.1 % 
+ Population: 9,796,981
+ 
+Congo, Dem. Rep. 
+ Inflation Rate: 85.93 % 
+ Population: 51,516,110
+ 
+Guinea 
+ Inflation Rate: 31.37 % 
+ Population: 8,758,314
+ 
+Serbia 
+ Inflation Rate: 30.3 % 
+ Population: 7,476,894
+ 
+ Between 2001-2005, 1.5 % of the world's population (95,703,977 people) 
+ subjected to inflation rates greater than 30%. 
+ ==========================================
+2006-2010 World Population: 6,789,628,765
+ Between 2006-2010, 0.0 % of the world's population (0 people) 
+ subjected to inflation rates greater than 30%. 
+ ==========================================
+2011-2015 World Population: 7,210,538,448
+Belarus 
+ Inflation Rate: 32.48 % 
+ Population: 9,452,256
+ 
+Venezuela, RB 
+ Inflation Rate: 54.34 % 
+ Population: 29,630,909
+ 
+ Between 2011-2015, 0.54 % of the world's population (39,083,165 people) 
+ subjected to inflation rates greater than 30%. 
+ ==========================================
+2016-2020 World Population: 7,630,247,770
+Sudan 
+ Inflation Rate: 62.94 % 
+ Population: 41,824,973
+ 
+South Sudan 
+ Inflation Rate: 153.65 % 
+ Population: 10,995,012
+ 
+Suriname 
+ Inflation Rate: 37.43 % 
+ Population: 575,873
+ 
+Venezuela, RB 
+ Inflation Rate: 254.95 % 
+ Population: 29,018,523
+ 
+Zimbabwe 
+ Inflation Rate: 164.5 % 
+ Population: 14,442,829
+ 
+ Between 2016-2020, 1.27 % of the world's population (96,857,210 people) 
+ subjected to inflation rates greater than 30%. 
+ ==========================================
+2021-2021 World Population: 7,900,000,000
+Lebanon 
+ Inflation Rate: 154.76 % 
+ Population: 6,769,151
+ 
+Sudan 
+ Inflation Rate: 382.82 % 
+ Population: 44,909,351
+ 
+Suriname 
+ Inflation Rate: 59.11 % 
+ Population: 591,798
+ 
+Zimbabwe 
+ Inflation Rate: 98.55 % 
+ Population: 15,092,171
+ 
+ Between 2021-2021, 0.85 % of the world's population (67,362,471 people) 
+ subjected to inflation rates greater than 30%. 
