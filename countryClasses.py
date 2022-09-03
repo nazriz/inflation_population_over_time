@@ -16,6 +16,7 @@ class Country:
         return self.name
 
 
+
 class worldPopulation:
 
     def setWorldPopulation(self, amount):
@@ -27,3 +28,12 @@ class worldPopulation:
 
     def __repr__(self):
         return "WorldPopulation"
+
+
+class highestPopulation:
+
+    def buildCountryDict(self, countryList):
+        self.countryDict = {}
+
+        for x in countryList:
+            self.countryDict[x] = 0

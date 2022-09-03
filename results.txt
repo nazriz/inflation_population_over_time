@@ -488,7 +488,7 @@ Zimbabwe
  Between 2016-2020, 1.27 % of the world's population (96,857,210 people) 
  subjected to inflation rates greater than 30%. 
  ==========================================
-2021-2021 World Population: 7,900,000,000
+2021 World Population: 7,900,000,000
 Lebanon 
  Inflation Rate: 154.76 % 
  Population: 6,769,151
@@ -505,5 +505,5 @@ Zimbabwe
  Inflation Rate: 98.55 % 
  Population: 15,092,171
  
- Between 2021-2021, 0.85 % of the world's population (67,362,471 people) 
+ Between 2021, 0.85 % of the world's population (67,362,471 people) 
  subjected to inflation rates greater than 30%. 

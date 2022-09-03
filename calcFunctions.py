@@ -61,7 +61,10 @@ def averageInflationByCountryByYearRange(inputDf, yearsRangeList):
     ## Find inflation rates based on input 
     for x in range(len(inputDf.index)):
         for y in yearsRangeList:
-            avgInflationDictKey = str(y[0]) +"-"+str(y[-1])
+            if len(y) != 1:
+                avgInflationDictKey = str(y[0]) +"-"+str(y[-1])
+            else:
+                avgInflationDictKey = str(y[0])
             stepYearAvg = inputDf.loc[x, y].mean()
             if stepYearAvg > 30:
                 countryDict = {}
@@ -80,7 +83,10 @@ def averagePopulationByCountryByYearYange(inputDf, inflationDict, yearsRangeList
     ## Find average population based on input
     for x in range(len(inputDf.index)):
         for y in yearsRangeList:
-            stepYearDictKey = str(y[0]) +"-"+str(y[-1])
+            if len(y) != 1:
+                stepYearDictKey = str(y[0]) +"-"+str(y[-1])
+            else:
+                stepYearDictKey = str(y[0])
             stepYearAvg = inputDf.loc[x, y].mean()
             countryName = inputDf._get_value(x,"Country")
             if checkAverageInflationDictKeys(countryName, inflationDict[stepYearDictKey]):
@@ -95,26 +101,48 @@ def generateWorldPopulationData(inputDf, yearsRangeList):
 
     worldPopulationDict = {}
     for x in yearsRangeList:
-        yearDictName = str(x[0]) +"-"+str(x[-1])
+        if len(x) != 1:
+            yearDictName = str(x[0]) +"-"+str(x[-1])
+        else:
+            yearDictName = str(x[0])
+
         worldPopulationDict[yearDictName] = inputDf[x].mean(axis=1).astype(int).values[0]
 
     return worldPopulationDict
    
 
 
-def inflationByCountryByYear(inputDf, yearsRangeList):
+def inflationByCountryByYear(inputDf, yearsRangeList, targetInflationRate):
     # Initilise stepYearDict with empty arrays
-    averageInflationDict = createYearRangeDictWithEmptyArrays(yearsRangeList)
+    inflationByYearDict = createYearRangeDictWithEmptyArrays(yearsRangeList)
 
     ## Find inflation rates based on input 
     for x in range(len(inputDf.index)):
         for y in yearsRangeList:
-            avgInflationDictKey = str(y[0]) +"-"+str(y[-1])
-            stepYearAvg = inputDf.loc[x, y].mean()
-            if stepYearAvg > 30:
+            avgInflationDictKey = str(y[0])
+            inflationRate = float(inputDf.loc[x, y])
+            if inflationRate > targetInflationRate:
                 countryDict = {}
                 countryName = inputDf._get_value(x,"Country")
-                countryDict[countryName] = str(round(float(stepYearAvg),2)) + " %"
-                averageInflationDict[avgInflationDictKey].append(countryDict)
+                countryDict[countryName] = str(round(float(inflationRate),2)) + " %"
+                inflationByYearDict[avgInflationDictKey].append(countryDict)
 
-    return averageInflationDict
+    return inflationByYearDict
+
+def populationByCountryByYear(inputDf, inflationDict, yearsRangeList):
+
+    # Initilise averagePopulationDict with empty arrays
+    countryPopulationDict = createYearRangeDictWithEmptyArrays(yearsRangeList)
+
+    ## Find average population based on input
+    for x in range(len(inputDf.index)):
+        for y in yearsRangeList:
+            countryPopDictKey = str(y[0])
+            populationForYear = float(inputDf.loc[x, y])
+            countryName = inputDf._get_value(x,"Country")
+            if checkAverageInflationDictKeys(countryName, inflationDict[countryPopDictKey]):
+                countryDict = {}
+                countryDict[countryName] = int(populationForYear)
+                countryPopulationDict[countryPopDictKey].append(countryDict)
+
+    return countryPopulationDict
