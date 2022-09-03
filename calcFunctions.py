@@ -10,8 +10,13 @@ import pandas as pd
 def createYearRangeDictWithEmptyArrays(yearsRange):
     emptyDict = {}
     for years in yearsRange:
-        stepYearDictName = str(years[0]) +"-"+str(years[-1])
-        emptyDict[stepYearDictName] = []
+        if len(years) == 1:
+            stepYearDictName = str(years[0])
+            emptyDict[stepYearDictName] = []
+        else:
+            stepYearDictName = str(years[0]) +"-"+str(years[-1])
+            emptyDict[stepYearDictName] = []
+
     return emptyDict
 
 
@@ -95,3 +100,21 @@ def generateWorldPopulationData(inputDf, yearsRangeList):
 
     return worldPopulationDict
    
+
+
+def inflationByCountryByYear(inputDf, yearsRangeList):
+    # Initilise stepYearDict with empty arrays
+    averageInflationDict = createYearRangeDictWithEmptyArrays(yearsRangeList)
+
+    ## Find inflation rates based on input 
+    for x in range(len(inputDf.index)):
+        for y in yearsRangeList:
+            avgInflationDictKey = str(y[0]) +"-"+str(y[-1])
+            stepYearAvg = inputDf.loc[x, y].mean()
+            if stepYearAvg > 30:
+                countryDict = {}
+                countryName = inputDf._get_value(x,"Country")
+                countryDict[countryName] = str(round(float(stepYearAvg),2)) + " %"
+                averageInflationDict[avgInflationDictKey].append(countryDict)
+
+    return averageInflationDict
