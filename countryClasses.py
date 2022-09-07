@@ -3,11 +3,11 @@ class Country:
     def setCountryName(self, name):
         self.name = name
 
-    def setAvgInflationRate(self, rate):
-        self.avgInflationRate = rate
+    def setInflationRate(self, rate):
+        self.inflationRate = rate
     
-    def setAvgPopulation(self, num):
-        self.avgPopulation = num
+    def setPopulation(self, num):
+        self.population = num
 
     def __str__(self):
         return self.name

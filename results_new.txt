@@ -1,0 +1,6267 @@
+
+
+
+1962
+Argentina 
+ Inflation Rate: 26.06 % 
+ Population: 21,153,042
+ 
+
+1963
+Argentina 
+ Inflation Rate: 26.0 % 
+ Population: 21,488,916
+ 
+1963
+Chile 
+ Inflation Rate: 44.24 % 
+ Population: 8,650,390
+ 
+
+1964
+Argentina 
+ Inflation Rate: 22.16 % 
+ Population: 21,824,427
+ 
+1964
+Chile 
+ Inflation Rate: 45.98 % 
+ Population: 8,821,855
+ 
+
+1965
+Argentina 
+ Inflation Rate: 28.6 % 
+ Population: 22,159,644
+ 
+1965
+Chile 
+ Inflation Rate: 28.84 % 
+ Population: 8,989,607
+ 
+
+1966
+Argentina 
+ Inflation Rate: 31.86 % 
+ Population: 22,494,031
+ 
+1966
+Chile 
+ Inflation Rate: 22.87 % 
+ Population: 9,152,848
+ 
+
+1967
+Argentina 
+ Inflation Rate: 29.23 % 
+ Population: 22,828,872
+ 
+
+1968
+Chile 
+ Inflation Rate: 26.63 % 
+ Population: 9,468,851
+ 
+
+1969
+Chile 
+ Inflation Rate: 30.65 % 
+ Population: 9,625,304
+ 
+1969
+Iceland 
+ Inflation Rate: 21.94 % 
+ Population: 203,369
+ 
+
+1970
+Chile 
+ Inflation Rate: 32.51 % 
+ Population: 9,783,134
+ 
+
+1971
+Afghanistan 
+ Inflation Rate: 25.51 % 
+ Population: 11,475,450
+ 
+1971
+United Arab Emirates 
+ Inflation Rate: 21.98 % 
+ Population: 277,463
+ 
+1971
+Argentina 
+ Inflation Rate: 34.73 % 
+ Population: 24,259,564
+ 
+1971
+Brazil 
+ Inflation Rate: 20.14 % 
+ Population: 97,482,928
+ 
+1971
+Chile 
+ Inflation Rate: 20.05 % 
+ Population: 9,942,716
+ 
+1971
+Cambodia 
+ Inflation Rate: 71.3 % 
+ Population: 7,139,640
+ 
+1971
+Mali 
+ Inflation Rate: 21.05 % 
+ Population: 6,044,524
+ 
+1971
+Nicaragua 
+ Inflation Rate: 27.37 % 
+ Population: 2,481,345
+ 
+1971
+Philippines 
+ Inflation Rate: 20.61 % 
+ Population: 36,849,678
+ 
+1971
+Qatar 
+ Inflation Rate: 20.03 % 
+ Population: 119,413
+ 
+1971
+Uruguay 
+ Inflation Rate: 23.95 % 
+ Population: 2,818,283
+ 
+
+1972
+United Arab Emirates 
+ Inflation Rate: 21.98 % 
+ Population: 330,968
+ 
+1972
+Argentina 
+ Inflation Rate: 58.45 % 
+ Population: 24,653,172
+ 
+1972
+Bangladesh 
+ Inflation Rate: 45.29 % 
+ Population: 66,625,706
+ 
+1972
+Belize 
+ Inflation Rate: 20.73 % 
+ Population: 127,152
+ 
+1972
+Chile 
+ Inflation Rate: 77.8 % 
+ Population: 10,103,675
+ 
+1972
+Fiji 
+ Inflation Rate: 21.98 % 
+ Population: 542,843
+ 
+1972
+Cambodia 
+ Inflation Rate: 25.4 % 
+ Population: 7,302,114
+ 
+1972
+Lao PDR 
+ Inflation Rate: 25.16 % 
+ Population: 2,840,842
+ 
+1972
+Nicaragua 
+ Inflation Rate: 26.86 % 
+ Population: 2,558,705
+ 
+1972
+Qatar 
+ Inflation Rate: 20.03 % 
+ Population: 130,505
+ 
+1972
+Seychelles 
+ Inflation Rate: 20.94 % 
+ Population: 56,029
+ 
+1972
+Uruguay 
+ Inflation Rate: 76.48 % 
+ Population: 2,821,458
+ 
+1972
+Vietnam 
+ Inflation Rate: 25.3 % 
+ Population: 45,548,476
+ 
+
+1973
+United Arab Emirates 
+ Inflation Rate: 21.98 % 
+ Population: 394,625
+ 
+1973
+Argentina 
+ Inflation Rate: 61.25 % 
+ Population: 25,056,475
+ 
+1973
+Antigua and Barbuda 
+ Inflation Rate: 21.72 % 
+ Population: 63,649
+ 
+1973
+Bangladesh 
+ Inflation Rate: 45.01 % 
+ Population: 67,637,541
+ 
+1973
+Belize 
+ Inflation Rate: 66.96 % 
+ Population: 129,294
+ 
+1973
+Bolivia 
+ Inflation Rate: 34.21 % 
+ Population: 4,785,916
+ 
+1973
+Chile 
+ Inflation Rate: 352.81 % 
+ Population: 10,265,827
+ 
+1973
+Colombia 
+ Inflation Rate: 22.6 % 
+ Population: 23,024,512
+ 
+1973
+Haiti 
+ Inflation Rate: 22.74 % 
+ Population: 4,918,625
+ 
+1973
+Indonesia 
+ Inflation Rate: 31.04 % 
+ Population: 124,199,693
+ 
+1973
+Iceland 
+ Inflation Rate: 20.95 % 
+ Population: 212,317
+ 
+1973
+Israel 
+ Inflation Rate: 20.03 % 
+ Population: 3,278,000
+ 
+1973
+Jamaica 
+ Inflation Rate: 25.0 % 
+ Population: 1,966,978
+ 
+1973
+Cambodia 
+ Inflation Rate: 157.9 % 
+ Population: 7,449,233
+ 
+1973
+Lao PDR 
+ Inflation Rate: 30.79 % 
+ Population: 2,919,288
+ 
+1973
+Myanmar 
+ Inflation Rate: 25.2 % 
+ Population: 29,238,168
+ 
+1973
+Nicaragua 
+ Inflation Rate: 27.04 % 
+ Population: 2,638,699
+ 
+1973
+Pakistan 
+ Inflation Rate: 23.07 % 
+ Population: 63,099,404
+ 
+1973
+Qatar 
+ Inflation Rate: 20.03 % 
+ Population: 142,181
+ 
+1973
+Syrian Arab Republic 
+ Inflation Rate: 20.36 % 
+ Population: 7,037,860
+ 
+1973
+Tonga 
+ Inflation Rate: 20.8 % 
+ Population: 86,958
+ 
+1973
+Uganda 
+ Inflation Rate: 24.4 % 
+ Population: 10,186,452
+ 
+1973
+Uruguay 
+ Inflation Rate: 97.0 % 
+ Population: 2,822,112
+ 
+1973
+Vietnam 
+ Inflation Rate: 44.4 % 
+ Population: 46,603,522
+ 
+
+1974
+Angola 
+ Inflation Rate: 27.42 % 
+ Population: 6,761,623
+ 
+1974
+United Arab Emirates 
+ Inflation Rate: 21.98 % 
+ Population: 467,457
+ 
+1974
+Argentina 
+ Inflation Rate: 23.47 % 
+ Population: 25,462,305
+ 
+1974
+Bangladesh 
+ Inflation Rate: 54.65 % 
+ Population: 68,742,222
+ 
+1974
+Bahrain 
+ Inflation Rate: 24.39 % 
+ Population: 251,908
+ 
+1974
+Belize 
+ Inflation Rate: 20.78 % 
+ Population: 131,305
+ 
+1974
+Bolivia 
+ Inflation Rate: 41.18 % 
+ Population: 4,892,294
+ 
+1974
+Brazil 
+ Inflation Rate: 27.59 % 
+ Population: 104,706,193
+ 
+1974
+Barbados 
+ Inflation Rate: 38.92 % 
+ Population: 244,643
+ 
+1974
+Brunei Darussalam 
+ Inflation Rate: 21.4 % 
+ Population: 155,069
+ 
+1974
+Chile 
+ Inflation Rate: 504.74 % 
+ Population: 10,428,803
+ 
+1974
+Congo, Dem. Rep. 
+ Inflation Rate: 29.47 % 
+ Population: 22,282,127
+ 
+1974
+Colombia 
+ Inflation Rate: 22.58 % 
+ Population: 23,538,390
+ 
+1974
+Costa Rica 
+ Inflation Rate: 30.07 % 
+ Population: 2,042,242
+ 
+1974
+Curacao 
+ Inflation Rate: 22.46 % 
+ Population: 148,351
+ 
+1974
+Dominica 
+ Inflation Rate: 34.38 % 
+ Population: 71,814
+ 
+1974
+Ecuador 
+ Inflation Rate: 42.08 % 
+ Population: 6,803,271
+ 
+1974
+Guinea-Bissau 
+ Inflation Rate: 30.67 % 
+ Population: 757,668
+ 
+1974
+Greece 
+ Inflation Rate: 26.56 % 
+ Population: 8,962,022
+ 
+1974
+Indonesia 
+ Inflation Rate: 40.49 % 
+ Population: 127,422,198
+ 
+1974
+India 
+ Inflation Rate: 28.6 % 
+ Population: 608,802,595
+ 
+1974
+Iceland 
+ Inflation Rate: 42.73 % 
+ Population: 215,209
+ 
+1974
+Israel 
+ Inflation Rate: 39.68 % 
+ Population: 3,377,000
+ 
+1974
+Jamaica 
+ Inflation Rate: 26.67 % 
+ Population: 1,998,313
+ 
+1974
+Japan 
+ Inflation Rate: 23.22 % 
+ Population: 110,162,000
+ 
+1974
+Cambodia 
+ Inflation Rate: 228.2 % 
+ Population: 7,533,332
+ 
+1974
+St. Kitts and Nevis 
+ Inflation Rate: 28.4 % 
+ Population: 44,322
+ 
+1974
+Korea, Rep. 
+ Inflation Rate: 24.3 % 
+ Population: 34,692,266
+ 
+1974
+Lao PDR 
+ Inflation Rate: 50.0 % 
+ Population: 2,990,963
+ 
+1974
+St. Lucia 
+ Inflation Rate: 34.22 % 
+ Population: 108,389
+ 
+1974
+Madagascar 
+ Inflation Rate: 22.1 % 
+ Population: 7,345,773
+ 
+1974
+Mexico 
+ Inflation Rate: 23.78 % 
+ Population: 57,966,812
+ 
+1974
+Myanmar 
+ Inflation Rate: 25.21 % 
+ Population: 29,918,469
+ 
+1974
+Mozambique 
+ Inflation Rate: 21.7 % 
+ Population: 9,906,963
+ 
+1974
+Mauritius 
+ Inflation Rate: 28.4 % 
+ Population: 878,042
+ 
+1974
+Pakistan 
+ Inflation Rate: 26.66 % 
+ Population: 64,905,996
+ 
+1974
+Philippines 
+ Inflation Rate: 31.36 % 
+ Population: 40,144,250
+ 
+1974
+Papua New Guinea 
+ Inflation Rate: 23.17 % 
+ Population: 3,063,051
+ 
+1974
+Portugal 
+ Inflation Rate: 25.08 % 
+ Population: 8,754,365
+ 
+1974
+Paraguay 
+ Inflation Rate: 27.87 % 
+ Population: 2,723,816
+ 
+1974
+Qatar 
+ Inflation Rate: 20.03 % 
+ Population: 153,624
+ 
+1974
+Rwanda 
+ Inflation Rate: 31.09 % 
+ Population: 4,231,579
+ 
+1974
+Saudi Arabia 
+ Inflation Rate: 21.44 % 
+ Population: 7,054,532
+ 
+1974
+Sudan 
+ Inflation Rate: 26.16 % 
+ Population: 11,732,957
+ 
+1974
+Singapore 
+ Inflation Rate: 22.35 % 
+ Population: 2,229,800
+ 
+1974
+Seychelles 
+ Inflation Rate: 24.42 % 
+ Population: 57,937
+ 
+1974
+Thailand 
+ Inflation Rate: 24.32 % 
+ Population: 41,252,320
+ 
+1974
+Trinidad and Tobago 
+ Inflation Rate: 22.02 % 
+ Population: 996,479
+ 
+1974
+Turkey 
+ Inflation Rate: 23.9 % 
+ Population: 38,370,278
+ 
+1974
+Uganda 
+ Inflation Rate: 67.2 % 
+ Population: 10,453,029
+ 
+1974
+Uruguay 
+ Inflation Rate: 77.21 % 
+ Population: 2,824,095
+ 
+1974
+St. Vincent and the Grenadines 
+ Inflation Rate: 35.5 % 
+ Population: 94,618
+ 
+1974
+Vietnam 
+ Inflation Rate: 55.0 % 
+ Population: 47,657,554
+ 
+1974
+Vanuatu 
+ Inflation Rate: 29.1 % 
+ Population: 96,773
+ 
+1974
+Samoa 
+ Inflation Rate: 24.99 % 
+ Population: 150,191
+ 
+1974
+Yemen, Rep. 
+ Inflation Rate: 23.7 % 
+ Population: 6,630,003
+ 
+
+1975
+Angola 
+ Inflation Rate: 29.0 % 
+ Population: 7,023,994
+ 
+1975
+United Arab Emirates 
+ Inflation Rate: 21.98 % 
+ Population: 548,295
+ 
+1975
+Argentina 
+ Inflation Rate: 182.93 % 
+ Population: 25,865,775
+ 
+1975
+Belize 
+ Inflation Rate: 20.77 % 
+ Population: 133,264
+ 
+1975
+Brazil 
+ Inflation Rate: 28.92 % 
+ Population: 107,216,209
+ 
+1975
+Barbados 
+ Inflation Rate: 20.29 % 
+ Population: 246,158
+ 
+1975
+Chile 
+ Inflation Rate: 374.74 % 
+ Population: 10,592,310
+ 
+1975
+Congo, Dem. Rep. 
+ Inflation Rate: 28.66 % 
+ Population: 22,903,587
+ 
+1975
+Colombia 
+ Inflation Rate: 25.19 % 
+ Population: 24,065,502
+ 
+1975
+Comoros 
+ Inflation Rate: 29.7 % 
+ Population: 257,285
+ 
+1975
+Cabo Verde 
+ Inflation Rate: 40.84 % 
+ Population: 270,240
+ 
+1975
+Gabon 
+ Inflation Rate: 28.45 % 
+ Population: 647,538
+ 
+1975
+United Kingdom 
+ Inflation Rate: 24.21 % 
+ Population: 56,225,800
+ 
+1975
+Ghana 
+ Inflation Rate: 29.82 % 
+ Population: 9,985,946
+ 
+1975
+Gambia, The 
+ Inflation Rate: 25.92 % 
+ Population: 539,985
+ 
+1975
+Ireland 
+ Inflation Rate: 20.88 % 
+ Population: 3,189,550
+ 
+1975
+Iceland 
+ Inflation Rate: 49.43 % 
+ Population: 217,979
+ 
+1975
+Israel 
+ Inflation Rate: 39.31 % 
+ Population: 3,455,000
+ 
+1975
+Korea, Rep. 
+ Inflation Rate: 25.25 % 
+ Population: 35,280,725
+ 
+1975
+Lao PDR 
+ Inflation Rate: 29.7 % 
+ Population: 3,051,583
+ 
+1975
+Lebanon 
+ Inflation Rate: 20.05 % 
+ Population: 2,575,746
+ 
+1975
+Myanmar 
+ Inflation Rate: 31.66 % 
+ Population: 30,611,093
+ 
+1975
+Nigeria 
+ Inflation Rate: 88.52 % 
+ Population: 63,374,289
+ 
+1975
+Pakistan 
+ Inflation Rate: 20.9 % 
+ Population: 66,816,875
+ 
+1975
+Peru 
+ Inflation Rate: 23.62 % 
+ Population: 15,424,745
+ 
+1975
+Qatar 
+ Inflation Rate: 20.03 % 
+ Population: 164,314
+ 
+1975
+Rwanda 
+ Inflation Rate: 30.23 % 
+ Population: 4,364,709
+ 
+1975
+Saudi Arabia 
+ Inflation Rate: 34.58 % 
+ Population: 7,419,486
+ 
+1975
+Sudan 
+ Inflation Rate: 23.96 % 
+ Population: 12,144,128
+ 
+1975
+Senegal 
+ Inflation Rate: 31.65 % 
+ Population: 4,929,846
+ 
+1975
+São Tomé and Principe 
+ Inflation Rate: 29.7 % 
+ Population: 83,134
+ 
+1975
+Turkey 
+ Inflation Rate: 21.23 % 
+ Population: 39,277,249
+ 
+1975
+Tanzania 
+ Inflation Rate: 26.06 % 
+ Population: 15,885,228
+ 
+1975
+Uganda 
+ Inflation Rate: 20.2 % 
+ Population: 10,737,403
+ 
+1975
+Uruguay 
+ Inflation Rate: 81.41 % 
+ Population: 2,830,172
+ 
+
+1976
+Angola 
+ Inflation Rate: 80.7 % 
+ Population: 7,279,630
+ 
+1976
+United Arab Emirates 
+ Inflation Rate: 21.98 % 
+ Population: 637,926
+ 
+1976
+Argentina 
+ Inflation Rate: 443.97 % 
+ Population: 26,264,681
+ 
+1976
+Bahrain 
+ Inflation Rate: 22.5 % 
+ Population: 283,746
+ 
+1976
+Brazil 
+ Inflation Rate: 42.01 % 
+ Population: 109,790,943
+ 
+1976
+Chile 
+ Inflation Rate: 211.92 % 
+ Population: 10,756,876
+ 
+1976
+Congo, Dem. Rep. 
+ Inflation Rate: 80.39 % 
+ Population: 23,560,470
+ 
+1976
+Ethiopia 
+ Inflation Rate: 28.77 % 
+ Population: 33,128,151
+ 
+1976
+Gabon 
+ Inflation Rate: 20.17 % 
+ Population: 661,398
+ 
+1976
+Ghana 
+ Inflation Rate: 56.08 % 
+ Population: 10,199,164
+ 
+1976
+Iceland 
+ Inflation Rate: 32.78 % 
+ Population: 220,154
+ 
+1976
+Israel 
+ Inflation Rate: 31.31 % 
+ Population: 3,533,000
+ 
+1976
+Lebanon 
+ Inflation Rate: 28.83 % 
+ Population: 2,596,409
+ 
+1976
+Maldives 
+ Inflation Rate: 31.4 % 
+ Population: 140,563
+ 
+1976
+Myanmar 
+ Inflation Rate: 22.38 % 
+ Population: 31,314,347
+ 
+1976
+Niger 
+ Inflation Rate: 23.53 % 
+ Population: 5,335,083
+ 
+1976
+Nigeria 
+ Inflation Rate: 47.39 % 
+ Population: 65,221,379
+ 
+1976
+Peru 
+ Inflation Rate: 33.48 % 
+ Population: 15,838,568
+ 
+1976
+Portugal 
+ Inflation Rate: 21.14 % 
+ Population: 9,355,810
+ 
+1976
+Qatar 
+ Inflation Rate: 20.03 % 
+ Population: 173,716
+ 
+1976
+Saudi Arabia 
+ Inflation Rate: 31.56 % 
+ Population: 7,802,928
+ 
+1976
+Uganda 
+ Inflation Rate: 54.6 % 
+ Population: 11,042,975
+ 
+1976
+Uruguay 
+ Inflation Rate: 50.62 % 
+ Population: 2,841,371
+ 
+
+1977
+Angola 
+ Inflation Rate: 69.01 % 
+ Population: 7,533,814
+ 
+1977
+United Arab Emirates 
+ Inflation Rate: 21.97 % 
+ Population: 735,347
+ 
+1977
+Argentina 
+ Inflation Rate: 176.0 % 
+ Population: 26,661,397
+ 
+1977
+Burkina Faso 
+ Inflation Rate: 29.99 % 
+ Population: 6,398,933
+ 
+1977
+Brazil 
+ Inflation Rate: 43.65 % 
+ Population: 112,425,392
+ 
+1977
+Chile 
+ Inflation Rate: 91.95 % 
+ Population: 10,922,777
+ 
+1977
+Côte d'Ivoire 
+ Inflation Rate: 27.51 % 
+ Population: 7,026,497
+ 
+1977
+Congo, Dem. Rep. 
+ Inflation Rate: 68.95 % 
+ Population: 24,249,127
+ 
+1977
+Colombia 
+ Inflation Rate: 34.09 % 
+ Population: 25,164,544
+ 
+1977
+Djibouti 
+ Inflation Rate: 21.5 % 
+ Population: 277,472
+ 
+1977
+Ecuador 
+ Inflation Rate: 29.65 % 
+ Population: 7,383,713
+ 
+1977
+Spain 
+ Inflation Rate: 24.54 % 
+ Population: 36,511,638
+ 
+1977
+Ghana 
+ Inflation Rate: 116.45 % 
+ Population: 10,395,453
+ 
+1977
+Iran, Islamic Rep. 
+ Inflation Rate: 27.29 % 
+ Population: 34,803,041
+ 
+1977
+Iceland 
+ Inflation Rate: 30.32 % 
+ Population: 221,799
+ 
+1977
+Israel 
+ Inflation Rate: 34.62 % 
+ Population: 3,613,000
+ 
+1977
+Lao PDR 
+ Inflation Rate: 89.99 % 
+ Population: 3,135,839
+ 
+1977
+Mexico 
+ Inflation Rate: 29.06 % 
+ Population: 62,869,908
+ 
+1977
+Mali 
+ Inflation Rate: 22.13 % 
+ Population: 6,712,267
+ 
+1977
+Niger 
+ Inflation Rate: 23.25 % 
+ Population: 5,491,158
+ 
+1977
+Peru 
+ Inflation Rate: 38.05 % 
+ Population: 16,258,323
+ 
+1977
+Portugal 
+ Inflation Rate: 31.02 % 
+ Population: 9,455,675
+ 
+1977
+Qatar 
+ Inflation Rate: 20.03 % 
+ Population: 182,319
+ 
+1977
+Eswatini 
+ Inflation Rate: 20.81 % 
+ Population: 532,253
+ 
+1977
+Togo 
+ Inflation Rate: 22.46 % 
+ Population: 2,518,454
+ 
+1977
+Turkey 
+ Inflation Rate: 25.99 % 
+ Population: 41,108,290
+ 
+1977
+Uganda 
+ Inflation Rate: 68.1 % 
+ Population: 11,368,618
+ 
+1977
+Uruguay 
+ Inflation Rate: 58.2 % 
+ Population: 2,856,958
+ 
+
+1978
+Angola 
+ Inflation Rate: 48.46 % 
+ Population: 7,790,774
+ 
+1978
+Argentina 
+ Inflation Rate: 175.51 % 
+ Population: 27,061,041
+ 
+1978
+Burundi 
+ Inflation Rate: 23.9 % 
+ Population: 3,949,264
+ 
+1978
+Brazil 
+ Inflation Rate: 38.7 % 
+ Population: 115,121,158
+ 
+1978
+Chile 
+ Inflation Rate: 40.09 % 
+ Population: 11,089,165
+ 
+1978
+Congo, Dem. Rep. 
+ Inflation Rate: 48.77 % 
+ Population: 24,956,387
+ 
+1978
+Ghana 
+ Inflation Rate: 73.09 % 
+ Population: 10,590,265
+ 
+1978
+Iceland 
+ Inflation Rate: 43.75 % 
+ Population: 223,537
+ 
+1978
+Israel 
+ Inflation Rate: 50.55 % 
+ Population: 3,690,000
+ 
+1978
+Jamaica 
+ Inflation Rate: 32.93 % 
+ Population: 2,105,903
+ 
+1978
+St. Kitts and Nevis 
+ Inflation Rate: 33.42 % 
+ Population: 43,703
+ 
+1978
+Libya 
+ Inflation Rate: 29.38 % 
+ Population: 2,979,102
+ 
+1978
+Mali 
+ Inflation Rate: 30.78 % 
+ Population: 6,831,090
+ 
+1978
+Nigeria 
+ Inflation Rate: 28.21 % 
+ Population: 69,271,915
+ 
+1978
+Peru 
+ Inflation Rate: 57.85 % 
+ Population: 16,683,451
+ 
+1978
+Portugal 
+ Inflation Rate: 21.04 % 
+ Population: 9,558,250
+ 
+1978
+Turkey 
+ Inflation Rate: 61.9 % 
+ Population: 42,039,983
+ 
+1978
+Uganda 
+ Inflation Rate: 49.45 % 
+ Population: 11,712,540
+ 
+1978
+Uruguay 
+ Inflation Rate: 44.55 % 
+ Population: 2,875,724
+ 
+
+1979
+Angola 
+ Inflation Rate: 101.3 % 
+ Population: 8,058,112
+ 
+1979
+Argentina 
+ Inflation Rate: 159.51 % 
+ Population: 27,471,046
+ 
+1979
+Burundi 
+ Inflation Rate: 36.54 % 
+ Population: 4,051,239
+ 
+1979
+Bolivia 
+ Inflation Rate: 20.59 % 
+ Population: 5,462,413
+ 
+1979
+Brazil 
+ Inflation Rate: 53.92 % 
+ Population: 117,878,412
+ 
+1979
+Chile 
+ Inflation Rate: 33.39 % 
+ Population: 11,254,877
+ 
+1979
+Congo, Dem. Rep. 
+ Inflation Rate: 101.05 % 
+ Population: 25,663,598
+ 
+1979
+Colombia 
+ Inflation Rate: 24.2 % 
+ Population: 26,312,996
+ 
+1979
+Ecuador 
+ Inflation Rate: 20.79 % 
+ Population: 7,784,074
+ 
+1979
+Ghana 
+ Inflation Rate: 54.44 % 
+ Population: 10,805,318
+ 
+1979
+Guinea-Bissau 
+ Inflation Rate: 26.0 % 
+ Population: 774,726
+ 
+1979
+Grenada 
+ Inflation Rate: 20.88 % 
+ Population: 88,603
+ 
+1979
+Iraq 
+ Inflation Rate: 31.7 % 
+ Population: 13,259,107
+ 
+1979
+Iceland 
+ Inflation Rate: 44.44 % 
+ Population: 225,735
+ 
+1979
+Israel 
+ Inflation Rate: 78.31 % 
+ Population: 3,786,000
+ 
+1979
+Jamaica 
+ Inflation Rate: 30.28 % 
+ Population: 2,132,784
+ 
+1979
+Lebanon 
+ Inflation Rate: 23.7 % 
+ Population: 2,590,911
+ 
+1979
+Nicaragua 
+ Inflation Rate: 48.18 % 
+ Population: 3,171,404
+ 
+1979
+Peru 
+ Inflation Rate: 66.69 % 
+ Population: 17,113,393
+ 
+1979
+Portugal 
+ Inflation Rate: 21.9 % 
+ Population: 9,661,265
+ 
+1979
+Paraguay 
+ Inflation Rate: 30.1 % 
+ Population: 3,095,151
+ 
+1979
+Sudan 
+ Inflation Rate: 31.14 % 
+ Population: 14,002,302
+ 
+1979
+Sierra Leone 
+ Inflation Rate: 21.25 % 
+ Population: 3,313,506
+ 
+1979
+Turkey 
+ Inflation Rate: 63.54 % 
+ Population: 42,994,043
+ 
+1979
+Uganda 
+ Inflation Rate: 94.95 % 
+ Population: 12,071,140
+ 
+1979
+Uruguay 
+ Inflation Rate: 66.84 % 
+ Population: 2,895,683
+ 
+
+1980
+Angola 
+ Inflation Rate: 46.71 % 
+ Population: 8,341,290
+ 
+1980
+Argentina 
+ Inflation Rate: 100.76 % 
+ Population: 27,896,532
+ 
+1980
+Bolivia 
+ Inflation Rate: 48.78 % 
+ Population: 5,579,932
+ 
+1980
+Brazil 
+ Inflation Rate: 90.23 % 
+ Population: 120,694,012
+ 
+1980
+Chile 
+ Inflation Rate: 35.14 % 
+ Population: 11,419,350
+ 
+1980
+Congo, Dem. Rep. 
+ Inflation Rate: 40.04 % 
+ Population: 26,358,905
+ 
+1980
+Colombia 
+ Inflation Rate: 26.58 % 
+ Population: 26,900,508
+ 
+1980
+Dominica 
+ Inflation Rate: 23.85 % 
+ Population: 75,318
+ 
+1980
+Dominican Republic 
+ Inflation Rate: 21.66 % 
+ Population: 5,803,929
+ 
+1980
+Egypt, Arab Rep. 
+ Inflation Rate: 20.95 % 
+ Population: 43,309,063
+ 
+1980
+Ghana 
+ Inflation Rate: 50.01 % 
+ Population: 11,056,112
+ 
+1980
+Guinea 
+ Inflation Rate: 39.99 % 
+ Population: 4,871,446
+ 
+1980
+Guinea-Bissau 
+ Inflation Rate: 64.76 % 
+ Population: 781,678
+ 
+1980
+Greece 
+ Inflation Rate: 24.68 % 
+ Population: 9,642,505
+ 
+1980
+Iran, Islamic Rep. 
+ Inflation Rate: 20.63 % 
+ Population: 38,650,244
+ 
+1980
+Iceland 
+ Inflation Rate: 58.53 % 
+ Population: 228,138
+ 
+1980
+Israel 
+ Inflation Rate: 131.02 % 
+ Population: 3,878,000
+ 
+1980
+Italy 
+ Inflation Rate: 21.06 % 
+ Population: 56,433,883
+ 
+1980
+Jamaica 
+ Inflation Rate: 26.76 % 
+ Population: 2,162,839
+ 
+1980
+Korea, Rep. 
+ Inflation Rate: 28.7 % 
+ Population: 38,123,775
+ 
+1980
+Lao PDR 
+ Inflation Rate: 188.82 % 
+ Population: 3,258,149
+ 
+1980
+Lebanon 
+ Inflation Rate: 23.9 % 
+ Population: 2,588,928
+ 
+1980
+Sri Lanka 
+ Inflation Rate: 26.15 % 
+ Population: 15,035,840
+ 
+1980
+Maldives 
+ Inflation Rate: 27.88 % 
+ Population: 158,271
+ 
+1980
+Mexico 
+ Inflation Rate: 26.35 % 
+ Population: 67,761,367
+ 
+1980
+Mali 
+ Inflation Rate: 20.25 % 
+ Population: 7,090,124
+ 
+1980
+Mauritius 
+ Inflation Rate: 42.37 % 
+ Population: 966,039
+ 
+1980
+Nicaragua 
+ Inflation Rate: 35.13 % 
+ Population: 3,265,520
+ 
+1980
+Peru 
+ Inflation Rate: 59.15 % 
+ Population: 17,547,612
+ 
+1980
+Paraguay 
+ Inflation Rate: 23.88 % 
+ Population: 3,181,627
+ 
+1980
+Sudan 
+ Inflation Rate: 26.53 % 
+ Population: 14,507,466
+ 
+1980
+Turkey 
+ Inflation Rate: 94.26 % 
+ Population: 43,975,972
+ 
+1980
+Tanzania 
+ Inflation Rate: 30.2 % 
+ Population: 18,538,263
+ 
+1980
+Uganda 
+ Inflation Rate: 99.2 % 
+ Population: 12,442,333
+ 
+1980
+Uruguay 
+ Inflation Rate: 63.47 % 
+ Population: 2,915,389
+ 
+1980
+Venezuela, RB 
+ Inflation Rate: 21.59 % 
+ Population: 15,182,616
+ 
+1980
+Vietnam 
+ Inflation Rate: 25.16 % 
+ Population: 54,281,841
+ 
+1980
+Samoa 
+ Inflation Rate: 33.05 % 
+ Population: 155,522
+ 
+
+1981
+Afghanistan 
+ Inflation Rate: 22.2 % 
+ Population: 13,171,679
+ 
+1981
+Argentina 
+ Inflation Rate: 104.48 % 
+ Population: 28,338,514
+ 
+1981
+Bolivia 
+ Inflation Rate: 32.24 % 
+ Population: 5,697,098
+ 
+1981
+Brazil 
+ Inflation Rate: 101.73 % 
+ Population: 123,570,327
+ 
+1981
+Congo, Dem. Rep. 
+ Inflation Rate: 34.88 % 
+ Population: 27,040,329
+ 
+1981
+Colombia 
+ Inflation Rate: 27.52 % 
+ Population: 27,496,608
+ 
+1981
+Cabo Verde 
+ Inflation Rate: 20.68 % 
+ Population: 288,678
+ 
+1981
+Costa Rica 
+ Inflation Rate: 37.04 % 
+ Population: 2,455,593
+ 
+1981
+Ghana 
+ Inflation Rate: 116.5 % 
+ Population: 11,348,287
+ 
+1981
+Guinea 
+ Inflation Rate: 35.0 % 
+ Population: 4,969,595
+ 
+1981
+Guinea-Bissau 
+ Inflation Rate: 41.94 % 
+ Population: 793,804
+ 
+1981
+Greece 
+ Inflation Rate: 24.51 % 
+ Population: 9,729,350
+ 
+1981
+Guyana 
+ Inflation Rate: 22.24 % 
+ Population: 781,734
+ 
+1981
+Croatia 
+ Inflation Rate: 40.2 % 
+ Population: 4,611,509
+ 
+1981
+Ireland 
+ Inflation Rate: 20.37 % 
+ Population: 3,453,000
+ 
+1981
+Iran, Islamic Rep. 
+ Inflation Rate: 24.2 % 
+ Population: 40,199,911
+ 
+1981
+Iceland 
+ Inflation Rate: 51.79 % 
+ Population: 230,755
+ 
+1981
+Israel 
+ Inflation Rate: 116.8 % 
+ Population: 3,956,000
+ 
+1981
+Korea, Rep. 
+ Inflation Rate: 21.35 % 
+ Population: 38,723,248
+ 
+1981
+Lao PDR 
+ Inflation Rate: 33.7 % 
+ Population: 3,323,353
+ 
+1981
+Madagascar 
+ Inflation Rate: 30.46 % 
+ Population: 8,971,339
+ 
+1981
+Mexico 
+ Inflation Rate: 27.93 % 
+ Population: 69,407,623
+ 
+1981
+Niger 
+ Inflation Rate: 24.3 % 
+ Population: 6,163,711
+ 
+1981
+Nigeria 
+ Inflation Rate: 24.3 % 
+ Population: 75,440,505
+ 
+1981
+Nicaragua 
+ Inflation Rate: 23.8 % 
+ Population: 3,360,142
+ 
+1981
+Peru 
+ Inflation Rate: 75.43 % 
+ Population: 17,985,398
+ 
+1981
+Poland 
+ Inflation Rate: 21.21 % 
+ Population: 35,898,587
+ 
+1981
+Sudan 
+ Inflation Rate: 24.02 % 
+ Population: 15,027,254
+ 
+1981
+Sierra Leone 
+ Inflation Rate: 23.37 % 
+ Population: 3,464,113
+ 
+1981
+Slovenia 
+ Inflation Rate: 42.62 % 
+ Population: 1,906,531
+ 
+1981
+Eswatini 
+ Inflation Rate: 20.06 % 
+ Population: 608,374
+ 
+1981
+Turkey 
+ Inflation Rate: 37.61 % 
+ Population: 44,988,411
+ 
+1981
+Tanzania 
+ Inflation Rate: 25.7 % 
+ Population: 19,120,683
+ 
+1981
+Uganda 
+ Inflation Rate: 100.0 % 
+ Population: 12,825,084
+ 
+1981
+Uruguay 
+ Inflation Rate: 34.05 % 
+ Population: 2,934,624
+ 
+1981
+Vietnam 
+ Inflation Rate: 69.6 % 
+ Population: 55,522,804
+ 
+1981
+Vanuatu 
+ Inflation Rate: 26.85 % 
+ Population: 118,546
+ 
+1981
+Samoa 
+ Inflation Rate: 20.51 % 
+ Population: 156,410
+ 
+
+1982
+Argentina 
+ Inflation Rate: 164.78 % 
+ Population: 28,794,550
+ 
+1982
+Bolivia 
+ Inflation Rate: 126.45 % 
+ Population: 5,814,344
+ 
+1982
+Brazil 
+ Inflation Rate: 100.54 % 
+ Population: 126,498,322
+ 
+1982
+Congo, Dem. Rep. 
+ Inflation Rate: 37.07 % 
+ Population: 27,717,293
+ 
+1982
+Colombia 
+ Inflation Rate: 24.7 % 
+ Population: 28,101,824
+ 
+1982
+Cabo Verde 
+ Inflation Rate: 21.13 % 
+ Population: 294,244
+ 
+1982
+Costa Rica 
+ Inflation Rate: 90.11 % 
+ Population: 2,523,358
+ 
+1982
+Ghana 
+ Inflation Rate: 22.49 % 
+ Population: 11,676,828
+ 
+1982
+Guinea 
+ Inflation Rate: 29.92 % 
+ Population: 5,077,073
+ 
+1982
+Equatorial Guinea 
+ Inflation Rate: 38.26 % 
+ Population: 284,638
+ 
+1982
+Greece 
+ Inflation Rate: 20.99 % 
+ Population: 9,789,513
+ 
+1982
+Guyana 
+ Inflation Rate: 20.61 % 
+ Population: 781,249
+ 
+1982
+Croatia 
+ Inflation Rate: 31.8 % 
+ Population: 4,634,234
+ 
+1982
+Iraq 
+ Inflation Rate: 22.0 % 
+ Population: 14,432,466
+ 
+1982
+Iceland 
+ Inflation Rate: 50.24 % 
+ Population: 233,860
+ 
+1982
+Israel 
+ Inflation Rate: 120.36 % 
+ Population: 4,031,000
+ 
+1982
+Kenya 
+ Inflation Rate: 20.67 % 
+ Population: 17,736,326
+ 
+1982
+Lao PDR 
+ Inflation Rate: 70.38 % 
+ Population: 3,401,193
+ 
+1982
+Madagascar 
+ Inflation Rate: 31.91 % 
+ Population: 9,234,137
+ 
+1982
+Mexico 
+ Inflation Rate: 58.91 % 
+ Population: 71,058,650
+ 
+1982
+North Macedonia 
+ Inflation Rate: 35.3 % 
+ Population: 1,955,247
+ 
+1982
+Nicaragua 
+ Inflation Rate: 28.5 % 
+ Population: 3,455,129
+ 
+1982
+Peru 
+ Inflation Rate: 64.46 % 
+ Population: 18,426,420
+ 
+1982
+Poland 
+ Inflation Rate: 100.83 % 
+ Population: 36,230,481
+ 
+1982
+Portugal 
+ Inflation Rate: 21.68 % 
+ Population: 9,911,771
+ 
+1982
+Sudan 
+ Inflation Rate: 26.61 % 
+ Population: 15,562,129
+ 
+1982
+Sierra Leone 
+ Inflation Rate: 26.89 % 
+ Population: 3,540,164
+ 
+1982
+Slovenia 
+ Inflation Rate: 30.11 % 
+ Population: 1,910,334
+ 
+1982
+Turkey 
+ Inflation Rate: 29.14 % 
+ Population: 46,025,411
+ 
+1982
+Tanzania 
+ Inflation Rate: 28.9 % 
+ Population: 19,723,317
+ 
+1982
+Uganda 
+ Inflation Rate: 100.0 % 
+ Population: 13,221,991
+ 
+1982
+Vietnam 
+ Inflation Rate: 95.4 % 
+ Population: 56,814,309
+ 
+
+1983
+Argentina 
+ Inflation Rate: 343.81 % 
+ Population: 29,262,049
+ 
+1983
+Bolivia 
+ Inflation Rate: 273.36 % 
+ Population: 5,932,812
+ 
+1983
+Brazil 
+ Inflation Rate: 135.03 % 
+ Population: 129,448,815
+ 
+1983
+Chile 
+ Inflation Rate: 27.26 % 
+ Population: 11,907,955
+ 
+1983
+Cameroon 
+ Inflation Rate: 20.51 % 
+ Population: 9,456,496
+ 
+1983
+Congo, Dem. Rep. 
+ Inflation Rate: 76.73 % 
+ Population: 28,403,858
+ 
+1983
+Cabo Verde 
+ Inflation Rate: 20.16 % 
+ Population: 300,226
+ 
+1983
+Costa Rica 
+ Inflation Rate: 32.63 % 
+ Population: 2,593,015
+ 
+1983
+Ecuador 
+ Inflation Rate: 49.7 % 
+ Population: 8,624,594
+ 
+1983
+Ghana 
+ Inflation Rate: 122.25 % 
+ Population: 12,033,559
+ 
+1983
+Guinea 
+ Inflation Rate: 30.26 % 
+ Population: 5,195,443
+ 
+1983
+Guinea-Bissau 
+ Inflation Rate: 23.31 % 
+ Population: 830,212
+ 
+1983
+Equatorial Guinea 
+ Inflation Rate: 60.06 % 
+ Population: 308,208
+ 
+1983
+Greece 
+ Inflation Rate: 20.18 % 
+ Population: 9,846,627
+ 
+1983
+Croatia 
+ Inflation Rate: 40.6 % 
+ Population: 4,658,254
+ 
+1983
+Iceland 
+ Inflation Rate: 83.95 % 
+ Population: 236,977
+ 
+1983
+Israel 
+ Inflation Rate: 145.95 % 
+ Population: 4,105,000
+ 
+1983
+Lao PDR 
+ Inflation Rate: 62.51 % 
+ Population: 3,489,910
+ 
+1983
+Mexico 
+ Inflation Rate: 101.87 % 
+ Population: 72,709,306
+ 
+1983
+North Macedonia 
+ Inflation Rate: 41.9 % 
+ Population: 1,965,892
+ 
+1983
+Mozambique 
+ Inflation Rate: 28.2 % 
+ Population: 12,439,773
+ 
+1983
+Nicaragua 
+ Inflation Rate: 33.6 % 
+ Population: 3,549,711
+ 
+1983
+Peru 
+ Inflation Rate: 111.15 % 
+ Population: 18,870,988
+ 
+1983
+Poland 
+ Inflation Rate: 22.12 % 
+ Population: 36,571,808
+ 
+1983
+Portugal 
+ Inflation Rate: 24.0 % 
+ Population: 9,957,865
+ 
+1983
+Sudan 
+ Inflation Rate: 30.57 % 
+ Population: 16,107,613
+ 
+1983
+Sierra Leone 
+ Inflation Rate: 68.53 % 
+ Population: 3,619,854
+ 
+1983
+Slovenia 
+ Inflation Rate: 40.21 % 
+ Population: 1,922,321
+ 
+1983
+Turkey 
+ Inflation Rate: 31.39 % 
+ Population: 47,073,470
+ 
+1983
+Tanzania 
+ Inflation Rate: 27.1 % 
+ Population: 20,344,550
+ 
+1983
+Uganda 
+ Inflation Rate: 150.0 % 
+ Population: 13,638,729
+ 
+1983
+Uruguay 
+ Inflation Rate: 49.2 % 
+ Population: 2,973,048
+ 
+1983
+Vietnam 
+ Inflation Rate: 49.49 % 
+ Population: 58,148,384
+ 
+
+1984
+Afghanistan 
+ Inflation Rate: 20.4 % 
+ Population: 12,204,306
+ 
+1984
+Argentina 
+ Inflation Rate: 626.72 % 
+ Population: 29,737,097
+ 
+1984
+Bolivia 
+ Inflation Rate: 1289.54 % 
+ Population: 6,054,126
+ 
+1984
+Brazil 
+ Inflation Rate: 192.12 % 
+ Population: 132,383,569
+ 
+1984
+Congo, Dem. Rep. 
+ Inflation Rate: 52.63 % 
+ Population: 29,119,663
+ 
+1984
+Dominican Republic 
+ Inflation Rate: 20.24 % 
+ Population: 6,331,760
+ 
+1984
+Ecuador 
+ Inflation Rate: 29.9 % 
+ Population: 8,843,463
+ 
+1984
+Ghana 
+ Inflation Rate: 40.03 % 
+ Population: 12,405,659
+ 
+1984
+Guinea 
+ Inflation Rate: 26.01 % 
+ Population: 5,326,369
+ 
+1984
+Gambia, The 
+ Inflation Rate: 22.11 % 
+ Population: 725,688
+ 
+1984
+Guinea-Bissau 
+ Inflation Rate: 64.86 % 
+ Population: 851,276
+ 
+1984
+Equatorial Guinea 
+ Inflation Rate: 59.52 % 
+ Population: 331,554
+ 
+1984
+Guyana 
+ Inflation Rate: 25.14 % 
+ Population: 775,217
+ 
+1984
+Croatia 
+ Inflation Rate: 46.2 % 
+ Population: 4,680,285
+ 
+1984
+Iceland 
+ Inflation Rate: 30.85 % 
+ Population: 239,511
+ 
+1984
+Israel 
+ Inflation Rate: 373.22 % 
+ Population: 4,159,000
+ 
+1984
+Jamaica 
+ Inflation Rate: 27.69 % 
+ Population: 2,306,367
+ 
+1984
+Lao PDR 
+ Inflation Rate: 27.17 % 
+ Population: 3,586,315
+ 
+1984
+Mexico 
+ Inflation Rate: 65.45 % 
+ Population: 74,352,631
+ 
+1984
+North Macedonia 
+ Inflation Rate: 49.1 % 
+ Population: 1,974,413
+ 
+1984
+Mozambique 
+ Inflation Rate: 30.04 % 
+ Population: 12,636,120
+ 
+1984
+Nigeria 
+ Inflation Rate: 37.65 % 
+ Population: 81,448,757
+ 
+1984
+Nicaragua 
+ Inflation Rate: 141.3 % 
+ Population: 3,642,978
+ 
+1984
+Peru 
+ Inflation Rate: 110.21 % 
+ Population: 19,319,746
+ 
+1984
+Philippines 
+ Inflation Rate: 49.78 % 
+ Population: 52,827,047
+ 
+1984
+Poland 
+ Inflation Rate: 75.65 % 
+ Population: 36,904,134
+ 
+1984
+Portugal 
+ Inflation Rate: 28.38 % 
+ Population: 9,996,232
+ 
+1984
+Sudan 
+ Inflation Rate: 33.66 % 
+ Population: 16,657,956
+ 
+1984
+Sierra Leone 
+ Inflation Rate: 66.57 % 
+ Population: 3,707,513
+ 
+1984
+Slovenia 
+ Inflation Rate: 53.67 % 
+ Population: 1,932,154
+ 
+1984
+Chad 
+ Inflation Rate: 20.3 % 
+ Population: 4,957,561
+ 
+1984
+Turkey 
+ Inflation Rate: 48.39 % 
+ Population: 48,114,158
+ 
+1984
+Tanzania 
+ Inflation Rate: 36.1 % 
+ Population: 20,981,775
+ 
+1984
+Uruguay 
+ Inflation Rate: 55.31 % 
+ Population: 2,992,250
+ 
+1984
+Vietnam 
+ Inflation Rate: 64.9 % 
+ Population: 59,512,619
+ 
+1984
+Zambia 
+ Inflation Rate: 20.02 % 
+ Population: 6,701,547
+ 
+
+1985
+Argentina 
+ Inflation Rate: 672.18 % 
+ Population: 30,216,284
+ 
+1985
+Bolivia 
+ Inflation Rate: 11702.83 % 
+ Population: 6,179,460
+ 
+1985
+Brazil 
+ Inflation Rate: 225.99 % 
+ Population: 135,274,083
+ 
+1985
+Chile 
+ Inflation Rate: 30.7 % 
+ Population: 12,257,238
+ 
+1985
+Congo, Dem. Rep. 
+ Inflation Rate: 23.46 % 
+ Population: 29,881,222
+ 
+1985
+Colombia 
+ Inflation Rate: 23.97 % 
+ Population: 29,951,194
+ 
+1985
+Dominican Republic 
+ Inflation Rate: 45.31 % 
+ Population: 6,464,229
+ 
+1985
+Ecuador 
+ Inflation Rate: 28.54 % 
+ Population: 9,066,100
+ 
+1985
+Guinea-Bissau 
+ Inflation Rate: 112.71 % 
+ Population: 872,163
+ 
+1985
+Equatorial Guinea 
+ Inflation Rate: 84.0 % 
+ Population: 352,116
+ 
+1985
+Croatia 
+ Inflation Rate: 78.9 % 
+ Population: 4,701,417
+ 
+1985
+Iceland 
+ Inflation Rate: 31.99 % 
+ Population: 241,405
+ 
+1985
+Israel 
+ Inflation Rate: 308.79 % 
+ Population: 4,233,000
+ 
+1985
+Jamaica 
+ Inflation Rate: 25.89 % 
+ Population: 2,335,510
+ 
+1985
+Lao PDR 
+ Inflation Rate: 114.7 % 
+ Population: 3,687,889
+ 
+1985
+Lebanon 
+ Inflation Rate: 69.4 % 
+ Population: 2,651,992
+ 
+1985
+Mexico 
+ Inflation Rate: 57.75 % 
+ Population: 75,983,486
+ 
+1985
+North Macedonia 
+ Inflation Rate: 70.9 % 
+ Population: 1,981,536
+ 
+1985
+Mozambique 
+ Inflation Rate: 30.78 % 
+ Population: 12,764,385
+ 
+1985
+Nicaragua 
+ Inflation Rate: 571.4 % 
+ Population: 3,734,343
+ 
+1985
+Peru 
+ Inflation Rate: 163.4 % 
+ Population: 19,772,871
+ 
+1985
+Philippines 
+ Inflation Rate: 22.5 % 
+ Population: 54,275,836
+ 
+1985
+Paraguay 
+ Inflation Rate: 25.37 % 
+ Population: 3,676,206
+ 
+1985
+Sudan 
+ Inflation Rate: 45.63 % 
+ Population: 17,210,182
+ 
+1985
+Sierra Leone 
+ Inflation Rate: 76.58 % 
+ Population: 3,805,304
+ 
+1985
+El Salvador 
+ Inflation Rate: 22.36 % 
+ Population: 4,936,803
+ 
+1985
+Slovenia 
+ Inflation Rate: 79.41 % 
+ Population: 1,941,641
+ 
+1985
+Eswatini 
+ Inflation Rate: 20.46 % 
+ Population: 699,077
+ 
+1985
+Turkey 
+ Inflation Rate: 44.96 % 
+ Population: 49,133,928
+ 
+1985
+Tanzania 
+ Inflation Rate: 33.3 % 
+ Population: 21,633,799
+ 
+1985
+Uganda 
+ Inflation Rate: 100.0 % 
+ Population: 14,559,357
+ 
+1985
+Uruguay 
+ Inflation Rate: 72.22 % 
+ Population: 3,011,519
+ 
+1985
+Vietnam 
+ Inflation Rate: 91.6 % 
+ Population: 60,896,732
+ 
+1985
+Zambia 
+ Inflation Rate: 37.43 % 
+ Population: 6,923,148
+ 
+
+1986
+Argentina 
+ Inflation Rate: 90.1 % 
+ Population: 30,698,964
+ 
+1986
+Bolivia 
+ Inflation Rate: 273.55 % 
+ Population: 6,309,129
+ 
+1986
+Brazil 
+ Inflation Rate: 147.14 % 
+ Population: 138,108,915
+ 
+1986
+Congo, Dem. Rep. 
+ Inflation Rate: 46.73 % 
+ Population: 30,683,877
+ 
+1986
+Ecuador 
+ Inflation Rate: 21.81 % 
+ Population: 9,292,481
+ 
+1986
+Egypt, Arab Rep. 
+ Inflation Rate: 23.37 % 
+ Population: 50,602,360
+ 
+1986
+Ghana 
+ Inflation Rate: 24.54 % 
+ Population: 13,164,839
+ 
+1986
+Guinea 
+ Inflation Rate: 64.7 % 
+ Population: 5,629,420
+ 
+1986
+Gambia, The 
+ Inflation Rate: 56.56 % 
+ Population: 791,141
+ 
+1986
+Guinea-Bissau 
+ Inflation Rate: 26.55 % 
+ Population: 892,530
+ 
+1986
+Greece 
+ Inflation Rate: 23.02 % 
+ Population: 9,967,213
+ 
+1986
+Guatemala 
+ Inflation Rate: 32.81 % 
+ Population: 8,104,921
+ 
+1986
+Croatia 
+ Inflation Rate: 91.2 % 
+ Population: 4,721,446
+ 
+1986
+Iran, Islamic Rep. 
+ Inflation Rate: 23.72 % 
+ Population: 49,260,263
+ 
+1986
+Iceland 
+ Inflation Rate: 22.13 % 
+ Population: 243,180
+ 
+1986
+Israel 
+ Inflation Rate: 48.04 % 
+ Population: 4,299,000
+ 
+1986
+Lao PDR 
+ Inflation Rate: 35.0 % 
+ Population: 3,794,204
+ 
+1986
+Lebanon 
+ Inflation Rate: 95.4 % 
+ Population: 2,660,873
+ 
+1986
+Mexico 
+ Inflation Rate: 86.23 % 
+ Population: 77,599,105
+ 
+1986
+North Macedonia 
+ Inflation Rate: 89.3 % 
+ Population: 1,987,538
+ 
+1986
+Mozambique 
+ Inflation Rate: 40.49 % 
+ Population: 12,808,566
+ 
+1986
+Nicaragua 
+ Inflation Rate: 885.2 % 
+ Population: 3,823,133
+ 
+1986
+Peru 
+ Inflation Rate: 77.92 % 
+ Population: 20,230,385
+ 
+1986
+Paraguay 
+ Inflation Rate: 31.38 % 
+ Population: 3,783,074
+ 
+1986
+Sudan 
+ Inflation Rate: 60.0 % 
+ Population: 17,757,494
+ 
+1986
+Sierra Leone 
+ Inflation Rate: 80.87 % 
+ Population: 3,916,685
+ 
+1986
+El Salvador 
+ Inflation Rate: 31.94 % 
+ Population: 5,002,339
+ 
+1986
+Slovenia 
+ Inflation Rate: 95.89 % 
+ Population: 1,965,964
+ 
+1986
+Syrian Arab Republic 
+ Inflation Rate: 36.19 % 
+ Population: 11,004,273
+ 
+1986
+Tonga 
+ Inflation Rate: 29.87 % 
+ Population: 94,081
+ 
+1986
+Turkey 
+ Inflation Rate: 34.61 % 
+ Population: 50,128,548
+ 
+1986
+Tanzania 
+ Inflation Rate: 32.4 % 
+ Population: 22,296,282
+ 
+1986
+Uganda 
+ Inflation Rate: 143.8 % 
+ Population: 15,070,319
+ 
+1986
+Uruguay 
+ Inflation Rate: 76.38 % 
+ Population: 3,030,651
+ 
+1986
+Vietnam 
+ Inflation Rate: 453.54 % 
+ Population: 62,293,859
+ 
+1986
+Zambia 
+ Inflation Rate: 54.8 % 
+ Population: 7,146,965
+ 
+
+1987
+Argentina 
+ Inflation Rate: 131.33 % 
+ Population: 31,184,411
+ 
+1987
+Brazil 
+ Inflation Rate: 228.34 % 
+ Population: 140,891,606
+ 
+1987
+Congo, Dem. Rep. 
+ Inflation Rate: 90.37 % 
+ Population: 31,528,702
+ 
+1987
+Colombia 
+ Inflation Rate: 23.31 % 
+ Population: 31,195,417
+ 
+1987
+Ecuador 
+ Inflation Rate: 29.64 % 
+ Population: 9,522,362
+ 
+1987
+Ghana 
+ Inflation Rate: 39.76 % 
+ Population: 13,552,021
+ 
+1987
+Guinea 
+ Inflation Rate: 36.89 % 
+ Population: 5,801,323
+ 
+1987
+Gambia, The 
+ Inflation Rate: 23.71 % 
+ Population: 831,011
+ 
+1987
+Guinea-Bissau 
+ Inflation Rate: 86.77 % 
+ Population: 912,755
+ 
+1987
+Guyana 
+ Inflation Rate: 28.7 % 
+ Population: 757,451
+ 
+1987
+Croatia 
+ Inflation Rate: 130.8 % 
+ Population: 4,739,745
+ 
+1987
+Iran, Islamic Rep. 
+ Inflation Rate: 27.71 % 
+ Population: 51,193,782
+ 
+1987
+Lebanon 
+ Inflation Rate: 487.2 % 
+ Population: 2,667,957
+ 
+1987
+Mexico 
+ Inflation Rate: 131.83 % 
+ Population: 79,200,081
+ 
+1987
+North Macedonia 
+ Inflation Rate: 115.3 % 
+ Population: 1,992,278
+ 
+1987
+Myanmar 
+ Inflation Rate: 24.76 % 
+ Population: 39,404,350
+ 
+1987
+Mozambique 
+ Inflation Rate: 164.12 % 
+ Population: 12,786,353
+ 
+1987
+Malawi 
+ Inflation Rate: 25.05 % 
+ Population: 8,141,140
+ 
+1987
+Nicaragua 
+ Inflation Rate: 13109.5 % 
+ Population: 3,909,672
+ 
+1987
+Peru 
+ Inflation Rate: 75.0 % 
+ Population: 20,691,285
+ 
+1987
+Poland 
+ Inflation Rate: 25.23 % 
+ Population: 37,668,045
+ 
+1987
+Paraguay 
+ Inflation Rate: 21.65 % 
+ Population: 3,891,725
+ 
+1987
+Sudan 
+ Inflation Rate: 26.51 % 
+ Population: 18,303,430
+ 
+1987
+Sierra Leone 
+ Inflation Rate: 178.7 % 
+ Population: 4,038,154
+ 
+1987
+El Salvador 
+ Inflation Rate: 24.86 % 
+ Population: 5,067,531
+ 
+1987
+São Tomé and Principe 
+ Inflation Rate: 25.0 % 
+ Population: 110,259
+ 
+1987
+Suriname 
+ Inflation Rate: 53.42 % 
+ Population: 381,033
+ 
+1987
+Slovenia 
+ Inflation Rate: 132.07 % 
+ Population: 1,989,776
+ 
+1987
+Syrian Arab Republic 
+ Inflation Rate: 71.43 % 
+ Population: 11,360,848
+ 
+1987
+Turkey 
+ Inflation Rate: 38.86 % 
+ Population: 51,100,930
+ 
+1987
+Tanzania 
+ Inflation Rate: 29.9 % 
+ Population: 22,971,208
+ 
+1987
+Uganda 
+ Inflation Rate: 215.4 % 
+ Population: 15,612,754
+ 
+1987
+Uruguay 
+ Inflation Rate: 61.13 % 
+ Population: 3,049,581
+ 
+1987
+Venezuela, RB 
+ Inflation Rate: 28.12 % 
+ Population: 18,232,733
+ 
+1987
+Vietnam 
+ Inflation Rate: 360.36 % 
+ Population: 63,701,974
+ 
+1987
+Zambia 
+ Inflation Rate: 47.03 % 
+ Population: 7,372,835
+ 
+
+1988
+Afghanistan 
+ Inflation Rate: 27.5 % 
+ Population: 11,618,008
+ 
+1988
+Argentina 
+ Inflation Rate: 342.95 % 
+ Population: 31,668,939
+ 
+1988
+Brazil 
+ Inflation Rate: 629.11 % 
+ Population: 143,627,505
+ 
+1988
+Congo, Dem. Rep. 
+ Inflation Rate: 82.75 % 
+ Population: 32,443,784
+ 
+1988
+Colombia 
+ Inflation Rate: 28.14 % 
+ Population: 31,822,527
+ 
+1988
+Costa Rica 
+ Inflation Rate: 20.83 % 
+ Population: 2,960,932
+ 
+1988
+Dominican Republic 
+ Inflation Rate: 43.84 % 
+ Population: 6,863,438
+ 
+1988
+Ecuador 
+ Inflation Rate: 58.89 % 
+ Population: 9,755,576
+ 
+1988
+Ghana 
+ Inflation Rate: 31.37 % 
+ Population: 13,947,047
+ 
+1988
+Guinea 
+ Inflation Rate: 27.29 % 
+ Population: 5,982,484
+ 
+1988
+Guinea-Bissau 
+ Inflation Rate: 60.31 % 
+ Population: 933,046
+ 
+1988
+Guyana 
+ Inflation Rate: 39.9 % 
+ Population: 750,641
+ 
+1988
+Croatia 
+ Inflation Rate: 186.7 % 
+ Population: 4,755,207
+ 
+1988
+Iran, Islamic Rep. 
+ Inflation Rate: 28.9 % 
+ Population: 53,077,312
+ 
+1988
+Iraq 
+ Inflation Rate: 21.4 % 
+ Population: 16,612,319
+ 
+1988
+Iceland 
+ Inflation Rate: 25.73 % 
+ Population: 249,740
+ 
+1988
+Cambodia 
+ Inflation Rate: 23.0 % 
+ Population: 8,435,909
+ 
+1988
+Lebanon 
+ Inflation Rate: 155.0 % 
+ Population: 2,684,682
+ 
+1988
+Madagascar 
+ Inflation Rate: 26.34 % 
+ Population: 10,952,396
+ 
+1988
+Mexico 
+ Inflation Rate: 114.16 % 
+ Population: 80,788,725
+ 
+1988
+North Macedonia 
+ Inflation Rate: 191.9 % 
+ Population: 1,995,508
+ 
+1988
+Mozambique 
+ Inflation Rate: 58.51 % 
+ Population: 12,758,003
+ 
+1988
+Malawi 
+ Inflation Rate: 33.84 % 
+ Population: 8,636,686
+ 
+1988
+Nigeria 
+ Inflation Rate: 31.58 % 
+ Population: 90,395,278
+ 
+1988
+Nicaragua 
+ Inflation Rate: 4775.2 % 
+ Population: 3,995,529
+ 
+1988
+Peru 
+ Inflation Rate: 576.19 % 
+ Population: 21,153,462
+ 
+1988
+Poland 
+ Inflation Rate: 60.2 % 
+ Population: 37,824,487
+ 
+1988
+Paraguay 
+ Inflation Rate: 23.49 % 
+ Population: 4,001,678
+ 
+1988
+Sudan 
+ Inflation Rate: 62.86 % 
+ Population: 18,867,559
+ 
+1988
+Sierra Leone 
+ Inflation Rate: 34.29 % 
+ Population: 4,156,636
+ 
+1988
+São Tomé and Principe 
+ Inflation Rate: 44.28 % 
+ Population: 113,288
+ 
+1988
+Slovenia 
+ Inflation Rate: 198.75 % 
+ Population: 1,995,196
+ 
+1988
+Eswatini 
+ Inflation Rate: 20.4 % 
+ Population: 773,774
+ 
+1988
+Syrian Arab Republic 
+ Inflation Rate: 30.0 % 
+ Population: 11,719,064
+ 
+1988
+Turkey 
+ Inflation Rate: 68.81 % 
+ Population: 52,053,764
+ 
+1988
+Tanzania 
+ Inflation Rate: 31.2 % 
+ Population: 23,670,807
+ 
+1988
+Uganda 
+ Inflation Rate: 166.7 % 
+ Population: 16,180,129
+ 
+1988
+Uruguay 
+ Inflation Rate: 63.07 % 
+ Population: 3,068,714
+ 
+1988
+Venezuela, RB 
+ Inflation Rate: 29.49 % 
+ Population: 18,698,850
+ 
+1988
+Vietnam 
+ Inflation Rate: 374.35 % 
+ Population: 65,120,432
+ 
+1988
+Zambia 
+ Inflation Rate: 54.04 % 
+ Population: 7,598,270
+ 
+
+1989
+Afghanistan 
+ Inflation Rate: 71.5 % 
+ Population: 11,868,873
+ 
+1989
+Argentina 
+ Inflation Rate: 3079.81 % 
+ Population: 32,148,137
+ 
+1989
+Brazil 
+ Inflation Rate: 1430.73 % 
+ Population: 146,328,305
+ 
+1989
+Congo, Dem. Rep. 
+ Inflation Rate: 104.07 % 
+ Population: 33,464,767
+ 
+1989
+Colombia 
+ Inflation Rate: 25.86 % 
+ Population: 32,457,497
+ 
+1989
+Dominican Republic 
+ Inflation Rate: 40.75 % 
+ Population: 6,997,877
+ 
+1989
+Ecuador 
+ Inflation Rate: 75.3 % 
+ Population: 9,991,870
+ 
+1989
+Egypt, Arab Rep. 
+ Inflation Rate: 21.22 % 
+ Population: 54,788,680
+ 
+1989
+Ghana 
+ Inflation Rate: 25.24 % 
+ Population: 14,353,409
+ 
+1989
+Guinea 
+ Inflation Rate: 28.26 % 
+ Population: 6,167,480
+ 
+1989
+Guinea-Bissau 
+ Inflation Rate: 80.79 % 
+ Population: 953,782
+ 
+1989
+Guyana 
+ Inflation Rate: 89.5 % 
+ Population: 745,581
+ 
+1989
+Croatia 
+ Inflation Rate: 1181.4 % 
+ Population: 4,767,260
+ 
+1989
+Iceland 
+ Inflation Rate: 20.76 % 
+ Population: 252,852
+ 
+1989
+Israel 
+ Inflation Rate: 20.21 % 
+ Population: 4,518,000
+ 
+1989
+Jordan 
+ Inflation Rate: 25.65 % 
+ Population: 3,399,333
+ 
+1989
+Cambodia 
+ Inflation Rate: 63.8 % 
+ Population: 8,691,331
+ 
+1989
+Lao PDR 
+ Inflation Rate: 59.7 % 
+ Population: 4,138,845
+ 
+1989
+Lebanon 
+ Inflation Rate: 72.2 % 
+ Population: 2,726,438
+ 
+1989
+Liberia 
+ Inflation Rate: 25.31 % 
+ Population: 2,106,429
+ 
+1989
+Mexico 
+ Inflation Rate: 20.01 % 
+ Population: 82,368,930
+ 
+1989
+North Macedonia 
+ Inflation Rate: 1258.2 % 
+ Population: 1,996,863
+ 
+1989
+Myanmar 
+ Inflation Rate: 27.2 % 
+ Population: 40,731,439
+ 
+1989
+Mozambique 
+ Inflation Rate: 42.08 % 
+ Population: 12,805,950
+ 
+1989
+Nigeria 
+ Inflation Rate: 51.28 % 
+ Population: 92,788,039
+ 
+1989
+Nicaragua 
+ Inflation Rate: 7428.7 % 
+ Population: 4,082,958
+ 
+1989
+Peru 
+ Inflation Rate: 3407.75 % 
+ Population: 21,614,193
+ 
+1989
+Poland 
+ Inflation Rate: 581.48 % 
+ Population: 37,961,529
+ 
+1989
+Paraguay 
+ Inflation Rate: 26.15 % 
+ Population: 4,112,396
+ 
+1989
+Sudan 
+ Inflation Rate: 65.34 % 
+ Population: 19,476,653
+ 
+1989
+Sierra Leone 
+ Inflation Rate: 60.8 % 
+ Population: 4,254,434
+ 
+1989
+São Tomé and Principe 
+ Inflation Rate: 42.89 % 
+ Population: 116,313
+ 
+1989
+Slovenia 
+ Inflation Rate: 1281.44 % 
+ Population: 1,996,351
+ 
+1989
+Turkey 
+ Inflation Rate: 63.27 % 
+ Population: 52,992,479
+ 
+1989
+Tanzania 
+ Inflation Rate: 25.8 % 
+ Population: 24,411,744
+ 
+1989
+Uganda 
+ Inflation Rate: 130.8 % 
+ Population: 16,763,041
+ 
+1989
+Uruguay 
+ Inflation Rate: 80.89 % 
+ Population: 3,088,603
+ 
+1989
+Venezuela, RB 
+ Inflation Rate: 84.36 % 
+ Population: 19,166,474
+ 
+1989
+Vietnam 
+ Inflation Rate: 95.77 % 
+ Population: 66,550,231
+ 
+1989
+Zambia 
+ Inflation Rate: 128.29 % 
+ Population: 7,820,199
+ 
+
+1990
+Afghanistan 
+ Inflation Rate: 47.4 % 
+ Population: 12,412,311
+ 
+1990
+Argentina 
+ Inflation Rate: 2313.96 % 
+ Population: 32,618,648
+ 
+1990
+Bulgaria 
+ Inflation Rate: 23.9 % 
+ Population: 8,718,289
+ 
+1990
+Brazil 
+ Inflation Rate: 2947.73 % 
+ Population: 149,003,225
+ 
+1990
+Chile 
+ Inflation Rate: 26.04 % 
+ Population: 13,274,617
+ 
+1990
+Congo, Dem. Rep. 
+ Inflation Rate: 81.29 % 
+ Population: 34,612,023
+ 
+1990
+Colombia 
+ Inflation Rate: 29.14 % 
+ Population: 33,102,569
+ 
+1990
+Dominican Republic 
+ Inflation Rate: 50.31 % 
+ Population: 7,133,491
+ 
+1990
+Ecuador 
+ Inflation Rate: 48.51 % 
+ Population: 10,230,931
+ 
+1990
+Ghana 
+ Inflation Rate: 37.24 % 
+ Population: 14,773,274
+ 
+1990
+Guinea 
+ Inflation Rate: 25.69 % 
+ Population: 6,352,282
+ 
+1990
+Guinea-Bissau 
+ Inflation Rate: 33.0 % 
+ Population: 975,265
+ 
+1990
+Greece 
+ Inflation Rate: 20.43 % 
+ Population: 10,196,792
+ 
+1990
+Guatemala 
+ Inflation Rate: 41.03 % 
+ Population: 9,050,115
+ 
+1990
+Guyana 
+ Inflation Rate: 64.3 % 
+ Population: 743,306
+ 
+1990
+Honduras 
+ Inflation Rate: 23.41 % 
+ Population: 4,955,302
+ 
+1990
+Croatia 
+ Inflation Rate: 598.7 % 
+ Population: 4,777,368
+ 
+1990
+Haiti 
+ Inflation Rate: 21.28 % 
+ Population: 7,037,915
+ 
+1990
+Hungary 
+ Inflation Rate: 28.37 % 
+ Population: 10,373,988
+ 
+1990
+Iraq 
+ Inflation Rate: 53.7 % 
+ Population: 17,419,113
+ 
+1990
+Jamaica 
+ Inflation Rate: 21.94 % 
+ Population: 2,419,901
+ 
+1990
+Cambodia 
+ Inflation Rate: 141.8 % 
+ Population: 8,975,597
+ 
+1990
+Lebanon 
+ Inflation Rate: 68.9 % 
+ Population: 2,803,032
+ 
+1990
+Sri Lanka 
+ Inflation Rate: 21.5 % 
+ Population: 17,325,769
+ 
+1990
+Lithuania 
+ Inflation Rate: 216.4 % 
+ Population: 3,697,838
+ 
+1990
+Mexico 
+ Inflation Rate: 26.65 % 
+ Population: 83,943,135
+ 
+1990
+North Macedonia 
+ Inflation Rate: 600.0 % 
+ Population: 1,996,218
+ 
+1990
+Mozambique 
+ Inflation Rate: 43.72 % 
+ Population: 12,987,292
+ 
+1990
+Nicaragua 
+ Inflation Rate: 3004.1 % 
+ Population: 4,173,435
+ 
+1990
+Peru 
+ Inflation Rate: 7356.82 % 
+ Population: 22,071,433
+ 
+1990
+Poland 
+ Inflation Rate: 567.88 % 
+ Population: 38,110,782
+ 
+1990
+Paraguay 
+ Inflation Rate: 38.16 % 
+ Population: 4,223,413
+ 
+1990
+Romania 
+ Inflation Rate: 127.9 % 
+ Population: 23,201,835
+ 
+1990
+Sierra Leone 
+ Inflation Rate: 110.95 % 
+ Population: 4,319,763
+ 
+1990
+El Salvador 
+ Inflation Rate: 23.98 % 
+ Population: 5,270,074
+ 
+1990
+São Tomé and Principe 
+ Inflation Rate: 42.25 % 
+ Population: 119,211
+ 
+1990
+Suriname 
+ Inflation Rate: 21.77 % 
+ Population: 405,169
+ 
+1990
+Slovenia 
+ Inflation Rate: 552.08 % 
+ Population: 1,998,161
+ 
+1990
+Turkey 
+ Inflation Rate: 60.3 % 
+ Population: 53,921,758
+ 
+1990
+Tanzania 
+ Inflation Rate: 36.4 % 
+ Population: 25,203,848
+ 
+1990
+Uganda 
+ Inflation Rate: 45.4 % 
+ Population: 17,354,395
+ 
+1990
+Uruguay 
+ Inflation Rate: 112.18 % 
+ Population: 3,109,598
+ 
+1990
+Venezuela, RB 
+ Inflation Rate: 40.72 % 
+ Population: 19,632,665
+ 
+1990
+Vietnam 
+ Inflation Rate: 36.03 % 
+ Population: 67,988,855
+ 
+1990
+Yemen, Rep. 
+ Inflation Rate: 36.0 % 
+ Population: 11,709,987
+ 
+1990
+Zambia 
+ Inflation Rate: 89.86 % 
+ Population: 8,036,849
+ 
+
+1991
+Afghanistan 
+ Inflation Rate: 43.8 % 
+ Population: 13,299,016
+ 
+1991
+Angola 
+ Inflation Rate: 85.26 % 
+ Population: 12,248,901
+ 
+1991
+Albania 
+ Inflation Rate: 35.72 % 
+ Population: 3,266,790
+ 
+1991
+Argentina 
+ Inflation Rate: 171.67 % 
+ Population: 33,079,002
+ 
+1991
+Azerbaijan 
+ Inflation Rate: 106.6 % 
+ Population: 7,271,300
+ 
+1991
+Bulgaria 
+ Inflation Rate: 333.5 % 
+ Population: 8,632,367
+ 
+1991
+Belarus 
+ Inflation Rate: 94.2 % 
+ Population: 10,194,050
+ 
+1991
+Bolivia 
+ Inflation Rate: 21.44 % 
+ Population: 7,011,456
+ 
+1991
+Brazil 
+ Inflation Rate: 432.79 % 
+ Population: 151,648,007
+ 
+1991
+Chile 
+ Inflation Rate: 21.78 % 
+ Population: 13,495,255
+ 
+1991
+Congo, Dem. Rep. 
+ Inflation Rate: 2154.44 % 
+ Population: 35,908,240
+ 
+1991
+Colombia 
+ Inflation Rate: 30.35 % 
+ Population: 33,758,328
+ 
+1991
+Costa Rica 
+ Inflation Rate: 28.71 % 
+ Population: 3,202,083
+ 
+1991
+Czech Republic 
+ Inflation Rate: 57.71 % 
+ Population: 10,308,578
+ 
+1991
+Dominican Republic 
+ Inflation Rate: 47.42 % 
+ Population: 7,270,413
+ 
+1991
+Algeria 
+ Inflation Rate: 25.9 % 
+ Population: 26,400,468
+ 
+1991
+Ecuador 
+ Inflation Rate: 48.61 % 
+ Population: 10,472,476
+ 
+1991
+Estonia 
+ Inflation Rate: 202.0 % 
+ Population: 1,561,314
+ 
+1991
+Ethiopia 
+ Inflation Rate: 20.87 % 
+ Population: 49,609,976
+ 
+1991
+Guinea-Bissau 
+ Inflation Rate: 57.6 % 
+ Population: 997,522
+ 
+1991
+Guatemala 
+ Inflation Rate: 35.06 % 
+ Population: 9,296,814
+ 
+1991
+Guyana 
+ Inflation Rate: 103.1 % 
+ Population: 744,477
+ 
+1991
+Honduras 
+ Inflation Rate: 33.95 % 
+ Population: 5,098,594
+ 
+1991
+Croatia 
+ Inflation Rate: 122.6 % 
+ Population: 4,689,022
+ 
+1991
+Hungary 
+ Inflation Rate: 34.82 % 
+ Population: 10,373,400
+ 
+1991
+Iran, Islamic Rep. 
+ Inflation Rate: 20.17 % 
+ Population: 57,679,025
+ 
+1991
+Iraq 
+ Inflation Rate: 181.0 % 
+ Population: 17,889,457
+ 
+1991
+Jamaica 
+ Inflation Rate: 51.46 % 
+ Population: 2,439,329
+ 
+1991
+Cambodia 
+ Inflation Rate: 191.0 % 
+ Population: 9,289,298
+ 
+1991
+Lebanon 
+ Inflation Rate: 50.12 % 
+ Population: 2,921,700
+ 
+1991
+Lithuania 
+ Inflation Rate: 216.4 % 
+ Population: 3,704,134
+ 
+1991
+Mexico 
+ Inflation Rate: 22.66 % 
+ Population: 85,512,621
+ 
+1991
+North Macedonia 
+ Inflation Rate: 110.8 % 
+ Population: 1,993,304
+ 
+1991
+Myanmar 
+ Inflation Rate: 32.27 % 
+ Population: 41,890,192
+ 
+1991
+Mongolia 
+ Inflation Rate: 120.2 % 
+ Population: 2,217,918
+ 
+1991
+Mozambique 
+ Inflation Rate: 33.26 % 
+ Population: 13,328,029
+ 
+1991
+Nicaragua 
+ Inflation Rate: 116.6 % 
+ Population: 4,267,570
+ 
+1991
+Peru 
+ Inflation Rate: 424.59 % 
+ Population: 22,522,383
+ 
+1991
+Poland 
+ Inflation Rate: 76.77 % 
+ Population: 38,246,193
+ 
+1991
+Paraguay 
+ Inflation Rate: 23.96 % 
+ Population: 4,334,348
+ 
+1991
+Romania 
+ Inflation Rate: 161.12 % 
+ Population: 23,001,155
+ 
+1991
+Russian Federation 
+ Inflation Rate: 92.7 % 
+ Population: 148,394,216
+ 
+1991
+Sudan 
+ Inflation Rate: 123.58 % 
+ Population: 20,891,442
+ 
+1991
+Sierra Leone 
+ Inflation Rate: 102.69 % 
+ Population: 4,348,663
+ 
+1991
+São Tomé and Principe 
+ Inflation Rate: 46.48 % 
+ Population: 121,949
+ 
+1991
+Slovak Republic 
+ Inflation Rate: 60.5 % 
+ Population: 5,303,294
+ 
+1991
+Slovenia 
+ Inflation Rate: 114.83 % 
+ Population: 1,999,429
+ 
+1991
+Turkey 
+ Inflation Rate: 65.98 % 
+ Population: 54,840,595
+ 
+1991
+Tanzania 
+ Inflation Rate: 25.2 % 
+ Population: 26,056,605
+ 
+1991
+Uganda 
+ Inflation Rate: 20.82 % 
+ Population: 17,953,534
+ 
+1991
+Uruguay 
+ Inflation Rate: 102.09 % 
+ Population: 3,131,657
+ 
+1991
+Venezuela, RB 
+ Inflation Rate: 34.2 % 
+ Population: 20,096,314
+ 
+1991
+Vietnam 
+ Inflation Rate: 81.82 % 
+ Population: 69,436,956
+ 
+1991
+Yemen, Rep. 
+ Inflation Rate: 44.91 % 
+ Population: 12,302,127
+ 
+1991
+Zambia 
+ Inflation Rate: 103.2 % 
+ Population: 8,246,662
+ 
+
+1992
+Afghanistan 
+ Inflation Rate: 58.19 % 
+ Population: 14,485,543
+ 
+1992
+Angola 
+ Inflation Rate: 299.1 % 
+ Population: 12,657,361
+ 
+1992
+Albania 
+ Inflation Rate: 226.0 % 
+ Population: 3,247,039
+ 
+1992
+Argentina 
+ Inflation Rate: 24.9 % 
+ Population: 33,529,320
+ 
+1992
+Azerbaijan 
+ Inflation Rate: 917.0 % 
+ Population: 7,382,050
+ 
+1992
+Bulgaria 
+ Inflation Rate: 91.32 % 
+ Population: 8,540,164
+ 
+1992
+Belarus 
+ Inflation Rate: 970.7 % 
+ Population: 10,216,470
+ 
+1992
+Brazil 
+ Inflation Rate: 951.96 % 
+ Population: 154,259,382
+ 
+1992
+Congo, Dem. Rep. 
+ Inflation Rate: 4129.17 % 
+ Population: 37,333,917
+ 
+1992
+Colombia 
+ Inflation Rate: 27.03 % 
+ Population: 34,422,568
+ 
+1992
+Costa Rica 
+ Inflation Rate: 21.79 % 
+ Population: 3,286,525
+ 
+1992
+Algeria 
+ Inflation Rate: 31.7 % 
+ Population: 27,028,330
+ 
+1992
+Ecuador 
+ Inflation Rate: 54.68 % 
+ Population: 10,716,131
+ 
+1992
+Estonia 
+ Inflation Rate: 1075.9 % 
+ Population: 1,533,091
+ 
+1992
+Ethiopia 
+ Inflation Rate: 21.02 % 
+ Population: 51,423,591
+ 
+1992
+Georgia 
+ Inflation Rate: 887.45 % 
+ Population: 4,873,500
+ 
+1992
+Guinea-Bissau 
+ Inflation Rate: 69.44 % 
+ Population: 1,020,353
+ 
+1992
+Guyana 
+ Inflation Rate: 26.7 % 
+ Population: 748,596
+ 
+1992
+Croatia 
+ Inflation Rate: 635.6 % 
+ Population: 4,575,818
+ 
+1992
+Hungary 
+ Inflation Rate: 23.66 % 
+ Population: 10,369,341
+ 
+1992
+Iran, Islamic Rep. 
+ Inflation Rate: 24.48 % 
+ Population: 58,780,376
+ 
+1992
+Iraq 
+ Inflation Rate: 83.6 % 
+ Population: 18,402,740
+ 
+1992
+Jamaica 
+ Inflation Rate: 77.26 % 
+ Population: 2,461,047
+ 
+1992
+Kazakhstan 
+ Inflation Rate: 2958.1 % 
+ Population: 16,439,095
+ 
+1992
+Kenya 
+ Inflation Rate: 27.34 % 
+ Population: 25,326,080
+ 
+1992
+Cambodia 
+ Inflation Rate: 75.0 % 
+ Population: 9,623,899
+ 
+1992
+Lebanon 
+ Inflation Rate: 99.85 % 
+ Population: 3,076,133
+ 
+1992
+Lithuania 
+ Inflation Rate: 1020.62 % 
+ Population: 3,700,114
+ 
+1992
+Latvia 
+ Inflation Rate: 951.7 % 
+ Population: 2,614,338
+ 
+1992
+Moldova 
+ Inflation Rate: 1243.0 % 
+ Population: 2,977,130
+ 
+1992
+North Macedonia 
+ Inflation Rate: 1511.7 % 
+ Population: 1,988,659
+ 
+1992
+Myanmar 
+ Inflation Rate: 21.91 % 
+ Population: 42,401,686
+ 
+1992
+Mongolia 
+ Inflation Rate: 202.88 % 
+ Population: 2,243,495
+ 
+1992
+Mozambique 
+ Inflation Rate: 45.08 % 
+ Population: 13,805,999
+ 
+1992
+Malawi 
+ Inflation Rate: 23.24 % 
+ Population: 9,685,974
+ 
+1992
+Namibia 
+ Inflation Rate: 21.55 % 
+ Population: 1,516,951
+ 
+1992
+Nigeria 
+ Inflation Rate: 43.49 % 
+ Population: 100,161,708
+ 
+1992
+Nicaragua 
+ Inflation Rate: 21.9 % 
+ Population: 4,364,514
+ 
+1992
+Nepal 
+ Inflation Rate: 21.06 % 
+ Population: 19,938,322
+ 
+1992
+Peru 
+ Inflation Rate: 74.07 % 
+ Population: 22,966,822
+ 
+1992
+Poland 
+ Inflation Rate: 46.1 % 
+ Population: 38,363,667
+ 
+1992
+Romania 
+ Inflation Rate: 209.24 % 
+ Population: 22,794,284
+ 
+1992
+Russian Federation 
+ Inflation Rate: 1592.48 % 
+ Population: 148,538,197
+ 
+1992
+Sudan 
+ Inflation Rate: 117.62 % 
+ Population: 21,696,240
+ 
+1992
+Sierra Leone 
+ Inflation Rate: 65.5 % 
+ Population: 4,347,727
+ 
+1992
+São Tomé and Principe 
+ Inflation Rate: 33.7 % 
+ Population: 124,574
+ 
+1992
+Suriname 
+ Inflation Rate: 21.31 % 
+ Population: 420,658
+ 
+1992
+Slovenia 
+ Inflation Rate: 209.93 % 
+ Population: 1,996,498
+ 
+1992
+Turkey 
+ Inflation Rate: 70.08 % 
+ Population: 55,748,946
+ 
+1992
+Tanzania 
+ Inflation Rate: 20.7 % 
+ Population: 26,961,204
+ 
+1992
+Uganda 
+ Inflation Rate: 42.25 % 
+ Population: 18,561,668
+ 
+1992
+Uruguay 
+ Inflation Rate: 68.47 % 
+ Population: 3,154,459
+ 
+1992
+Uzbekistan 
+ Inflation Rate: 645.15 % 
+ Population: 21,449,000
+ 
+1992
+Venezuela, RB 
+ Inflation Rate: 31.41 % 
+ Population: 20,557,694
+ 
+1992
+Vietnam 
+ Inflation Rate: 37.71 % 
+ Population: 70,883,488
+ 
+1992
+Yemen, Rep. 
+ Inflation Rate: 51.2 % 
+ Population: 12,954,157
+ 
+1992
+Zambia 
+ Inflation Rate: 160.6 % 
+ Population: 8,451,346
+ 
+
+1993
+Afghanistan 
+ Inflation Rate: 33.99 % 
+ Population: 15,816,601
+ 
+1993
+Angola 
+ Inflation Rate: 1379.48 % 
+ Population: 13,075,044
+ 
+1993
+Albania 
+ Inflation Rate: 85.0 % 
+ Population: 3,227,287
+ 
+1993
+Armenia 
+ Inflation Rate: 3731.8 % 
+ Population: 3,363,111
+ 
+1993
+Azerbaijan 
+ Inflation Rate: 1129.7 % 
+ Population: 7,494,800
+ 
+1993
+Bulgaria 
+ Inflation Rate: 72.82 % 
+ Population: 8,472,313
+ 
+1993
+Belarus 
+ Inflation Rate: 1190.32 % 
+ Population: 10,239,050
+ 
+1993
+Brazil 
+ Inflation Rate: 1927.38 % 
+ Population: 156,849,086
+ 
+1993
+Congo, Dem. Rep. 
+ Inflation Rate: 1986.9 % 
+ Population: 38,815,835
+ 
+1993
+Colombia 
+ Inflation Rate: 22.44 % 
+ Population: 35,091,272
+ 
+1993
+Czech Republic 
+ Inflation Rate: 20.81 % 
+ Population: 10,329,855
+ 
+1993
+Algeria 
+ Inflation Rate: 20.5 % 
+ Population: 27,635,517
+ 
+1993
+Ecuador 
+ Inflation Rate: 44.95 % 
+ Population: 10,961,460
+ 
+1993
+Estonia 
+ Inflation Rate: 89.57 % 
+ Population: 1,494,128
+ 
+1993
+Georgia 
+ Inflation Rate: 3125.37 % 
+ Population: 4,911,100
+ 
+1993
+Ghana 
+ Inflation Rate: 24.94 % 
+ Population: 16,106,756
+ 
+1993
+Guinea-Bissau 
+ Inflation Rate: 48.23 % 
+ Population: 1,043,421
+ 
+1993
+Croatia 
+ Inflation Rate: 1523.68 % 
+ Population: 4,600,463
+ 
+1993
+Haiti 
+ Inflation Rate: 22.56 % 
+ Population: 7,460,684
+ 
+1993
+Hungary 
+ Inflation Rate: 22.46 % 
+ Population: 10,357,523
+ 
+1993
+Iran, Islamic Rep. 
+ Inflation Rate: 22.47 % 
+ Population: 59,723,761
+ 
+1993
+Iraq 
+ Inflation Rate: 207.7 % 
+ Population: 18,955,087
+ 
+1993
+Jamaica 
+ Inflation Rate: 21.92 % 
+ Population: 2,484,583
+ 
+1993
+Kazakhstan 
+ Inflation Rate: 1662.28 % 
+ Population: 16,380,672
+ 
+1993
+Kenya 
+ Inflation Rate: 46.06 % 
+ Population: 26,136,217
+ 
+1993
+Kyrgyz Republic 
+ Inflation Rate: 1086.19 % 
+ Population: 4,516,700
+ 
+1993
+Cambodia 
+ Inflation Rate: 114.32 % 
+ Population: 9,970,727
+ 
+1993
+Lebanon 
+ Inflation Rate: 24.74 % 
+ Population: 3,246,129
+ 
+1993
+Lithuania 
+ Inflation Rate: 410.45 % 
+ Population: 3,682,613
+ 
+1993
+Latvia 
+ Inflation Rate: 108.99 % 
+ Population: 2,563,290
+ 
+1993
+Moldova 
+ Inflation Rate: 788.5 % 
+ Population: 2,973,114
+ 
+1993
+Maldives 
+ Inflation Rate: 20.13 % 
+ Population: 242,596
+ 
+1993
+North Macedonia 
+ Inflation Rate: 338.68 % 
+ Population: 1,984,024
+ 
+1993
+Myanmar 
+ Inflation Rate: 31.83 % 
+ Population: 42,889,992
+ 
+1993
+Mongolia 
+ Inflation Rate: 268.41 % 
+ Population: 2,263,196
+ 
+1993
+Mozambique 
+ Inflation Rate: 42.26 % 
+ Population: 14,370,950
+ 
+1993
+Malawi 
+ Inflation Rate: 22.77 % 
+ Population: 9,710,335
+ 
+1993
+Nigeria 
+ Inflation Rate: 58.1 % 
+ Population: 102,700,751
+ 
+1993
+Peru 
+ Inflation Rate: 48.53 % 
+ Population: 23,408,135
+ 
+1993
+Poland 
+ Inflation Rate: 36.96 % 
+ Population: 38,461,408
+ 
+1993
+Romania 
+ Inflation Rate: 256.83 % 
+ Population: 22,763,280
+ 
+1993
+Russian Federation 
+ Inflation Rate: 874.25 % 
+ Population: 148,458,777
+ 
+1993
+Sudan 
+ Inflation Rate: 101.31 % 
+ Population: 22,527,837
+ 
+1993
+Sierra Leone 
+ Inflation Rate: 22.2 % 
+ Population: 4,328,965
+ 
+1993
+São Tomé and Principe 
+ Inflation Rate: 25.5 % 
+ Population: 127,066
+ 
+1993
+Suriname 
+ Inflation Rate: 79.26 % 
+ Population: 428,028
+ 
+1993
+Slovak Republic 
+ Inflation Rate: 23.29 % 
+ Population: 5,325,305
+ 
+1993
+Slovenia 
+ Inflation Rate: 31.76 % 
+ Population: 1,991,746
+ 
+1993
+Tajikistan 
+ Inflation Rate: 2600.72 % 
+ Population: 5,593,317
+ 
+1993
+Turkmenistan 
+ Inflation Rate: 3102.4 % 
+ Population: 4,010,789
+ 
+1993
+Turkey 
+ Inflation Rate: 66.09 % 
+ Population: 56,653,808
+ 
+1993
+Tanzania 
+ Inflation Rate: 26.1 % 
+ Population: 27,887,204
+ 
+1993
+Uganda 
+ Inflation Rate: 29.97 % 
+ Population: 19,175,986
+ 
+1993
+Ukraine 
+ Inflation Rate: 4660.58 % 
+ Population: 52,179,200
+ 
+1993
+Uruguay 
+ Inflation Rate: 54.1 % 
+ Population: 3,177,734
+ 
+1993
+Uzbekistan 
+ Inflation Rate: 534.18 % 
+ Population: 21,942,000
+ 
+1993
+Venezuela, RB 
+ Inflation Rate: 38.12 % 
+ Population: 21,016,900
+ 
+1993
+Yemen, Rep. 
+ Inflation Rate: 61.75 % 
+ Population: 13,634,082
+ 
+1993
+Zambia 
+ Inflation Rate: 182.73 % 
+ Population: 8,656,484
+ 
+
+1994
+Afghanistan 
+ Inflation Rate: 20.01 % 
+ Population: 17,075,728
+ 
+1994
+Angola 
+ Inflation Rate: 949.77 % 
+ Population: 13,503,753
+ 
+1994
+Albania 
+ Inflation Rate: 22.57 % 
+ Population: 3,207,536
+ 
+1994
+Armenia 
+ Inflation Rate: 5273.45 % 
+ Population: 3,283,664
+ 
+1994
+Azerbaijan 
+ Inflation Rate: 1664.0 % 
+ Population: 7,596,550
+ 
+1994
+Benin 
+ Inflation Rate: 38.53 % 
+ Population: 5,714,215
+ 
+1994
+Burkina Faso 
+ Inflation Rate: 24.72 % 
+ Population: 9,816,584
+ 
+1994
+Bulgaria 
+ Inflation Rate: 96.87 % 
+ Population: 8,443,591
+ 
+1994
+Belarus 
+ Inflation Rate: 2220.9 % 
+ Population: 10,226,955
+ 
+1994
+Brazil 
+ Inflation Rate: 2075.89 % 
+ Population: 159,432,717
+ 
+1994
+Central African Republic 
+ Inflation Rate: 24.55 % 
+ Population: 3,135,017
+ 
+1994
+China 
+ Inflation Rate: 24.26 % 
+ Population: 1,191,835,000
+ 
+1994
+Côte d'Ivoire 
+ Inflation Rate: 26.16 % 
+ Population: 13,735,438
+ 
+1994
+Congo, Dem. Rep. 
+ Inflation Rate: 23773.1 % 
+ Population: 40,252,973
+ 
+1994
+Colombia 
+ Inflation Rate: 22.85 % 
+ Population: 35,758,978
+ 
+1994
+Comoros 
+ Inflation Rate: 25.3 % 
+ Population: 462,280
+ 
+1994
+Algeria 
+ Inflation Rate: 29.0 % 
+ Population: 28,213,777
+ 
+1994
+Ecuador 
+ Inflation Rate: 27.37 % 
+ Population: 11,207,999
+ 
+1994
+Estonia 
+ Inflation Rate: 47.68 % 
+ Population: 1,462,514
+ 
+1994
+Gabon 
+ Inflation Rate: 36.12 % 
+ Population: 1,057,252
+ 
+1994
+Georgia 
+ Inflation Rate: 15606.5 % 
+ Population: 4,836,076
+ 
+1994
+Ghana 
+ Inflation Rate: 24.87 % 
+ Population: 16,561,677
+ 
+1994
+Equatorial Guinea 
+ Inflation Rate: 31.84 % 
+ Population: 479,099
+ 
+1994
+Honduras 
+ Inflation Rate: 21.74 % 
+ Population: 5,548,969
+ 
+1994
+Croatia 
+ Inflation Rate: 101.03 % 
+ Population: 4,652,024
+ 
+1994
+Haiti 
+ Inflation Rate: 42.56 % 
+ Population: 7,602,318
+ 
+1994
+Iran, Islamic Rep. 
+ Inflation Rate: 34.86 % 
+ Population: 60,590,608
+ 
+1994
+Iraq 
+ Inflation Rate: 448.5 % 
+ Population: 19,539,348
+ 
+1994
+Jamaica 
+ Inflation Rate: 35.24 % 
+ Population: 2,509,042
+ 
+1994
+Kazakhstan 
+ Inflation Rate: 1863.33 % 
+ Population: 16,145,766
+ 
+1994
+Kenya 
+ Inflation Rate: 28.72 % 
+ Population: 26,950,508
+ 
+1994
+Kyrgyz Republic 
+ Inflation Rate: 180.68 % 
+ Population: 4,515,100
+ 
+1994
+Lithuania 
+ Inflation Rate: 72.25 % 
+ Population: 3,657,144
+ 
+1994
+Latvia 
+ Inflation Rate: 35.92 % 
+ Population: 2,520,742
+ 
+1994
+Moldova 
+ Inflation Rate: 329.64 % 
+ Population: 2,964,277
+ 
+1994
+Madagascar 
+ Inflation Rate: 38.99 % 
+ Population: 13,066,544
+ 
+1994
+North Macedonia 
+ Inflation Rate: 125.49 % 
+ Population: 1,981,713
+ 
+1994
+Mali 
+ Inflation Rate: 24.29 % 
+ Population: 9,334,893
+ 
+1994
+Myanmar 
+ Inflation Rate: 24.1 % 
+ Population: 43,383,421
+ 
+1994
+Mongolia 
+ Inflation Rate: 193.41 % 
+ Population: 2,280,475
+ 
+1994
+Mozambique 
+ Inflation Rate: 63.12 % 
+ Population: 14,948,050
+ 
+1994
+Malawi 
+ Inflation Rate: 34.66 % 
+ Population: 9,745,695
+ 
+1994
+Niger 
+ Inflation Rate: 35.53 % 
+ Population: 9,168,316
+ 
+1994
+Nigeria 
+ Inflation Rate: 56.86 % 
+ Population: 105,293,701
+ 
+1994
+Peru 
+ Inflation Rate: 23.75 % 
+ Population: 23,851,405
+ 
+1994
+Poland 
+ Inflation Rate: 32.99 % 
+ Population: 38,542,652
+ 
+1994
+Paraguay 
+ Inflation Rate: 20.35 % 
+ Population: 4,666,096
+ 
+1994
+Romania 
+ Inflation Rate: 136.43 % 
+ Population: 22,730,211
+ 
+1994
+Russian Federation 
+ Inflation Rate: 307.72 % 
+ Population: 148,407,912
+ 
+1994
+Rwanda 
+ Inflation Rate: 21.0 % 
+ Population: 5,936,253
+ 
+1994
+Sudan 
+ Inflation Rate: 115.48 % 
+ Population: 23,338,465
+ 
+1994
+Senegal 
+ Inflation Rate: 32.1 % 
+ Population: 8,461,066
+ 
+1994
+Sierra Leone 
+ Inflation Rate: 24.2 % 
+ Population: 4,309,780
+ 
+1994
+São Tomé and Principe 
+ Inflation Rate: 51.16 % 
+ Population: 129,426
+ 
+1994
+Suriname 
+ Inflation Rate: 142.84 % 
+ Population: 435,099
+ 
+1994
+Slovenia 
+ Inflation Rate: 20.99 % 
+ Population: 1,989,443
+ 
+1994
+Chad 
+ Inflation Rate: 41.27 % 
+ Population: 6,781,057
+ 
+1994
+Togo 
+ Inflation Rate: 35.26 % 
+ Population: 4,120,615
+ 
+1994
+Tajikistan 
+ Inflation Rate: 350.36 % 
+ Population: 5,679,169
+ 
+1994
+Turkmenistan 
+ Inflation Rate: 1748.3 % 
+ Population: 4,115,105
+ 
+1994
+Turkey 
+ Inflation Rate: 105.22 % 
+ Population: 57,564,209
+ 
+1994
+Tanzania 
+ Inflation Rate: 37.9 % 
+ Population: 28,792,649
+ 
+1994
+Ukraine 
+ Inflation Rate: 861.05 % 
+ Population: 51,921,400
+ 
+1994
+Uruguay 
+ Inflation Rate: 44.75 % 
+ Population: 3,201,149
+ 
+1994
+Uzbekistan 
+ Inflation Rate: 1568.33 % 
+ Population: 22,377,000
+ 
+1994
+Venezuela, RB 
+ Inflation Rate: 60.8 % 
+ Population: 21,474,553
+ 
+1994
+Yemen, Rep. 
+ Inflation Rate: 71.28 % 
+ Population: 14,297,617
+ 
+1994
+Zambia 
+ Inflation Rate: 53.93 % 
+ Population: 8,869,745
+ 
+
+1995
+Angola 
+ Inflation Rate: 2672.23 % 
+ Population: 13,945,205
+ 
+1995
+Armenia 
+ Inflation Rate: 176.74 % 
+ Population: 3,217,349
+ 
+1995
+Azerbaijan 
+ Inflation Rate: 411.76 % 
+ Population: 7,684,850
+ 
+1995
+Bulgaria 
+ Inflation Rate: 61.46 % 
+ Population: 8,406,067
+ 
+1995
+Belarus 
+ Inflation Rate: 685.19 % 
+ Population: 10,193,831
+ 
+1995
+Brazil 
+ Inflation Rate: 66.01 % 
+ Population: 162,019,889
+ 
+1995
+Cameroon 
+ Inflation Rate: 25.81 % 
+ Population: 13,599,984
+ 
+1995
+Congo, Dem. Rep. 
+ Inflation Rate: 541.8 % 
+ Population: 41,576,239
+ 
+1995
+Colombia 
+ Inflation Rate: 20.9 % 
+ Population: 36,421,438
+ 
+1995
+Costa Rica 
+ Inflation Rate: 23.19 % 
+ Population: 3,545,524
+ 
+1995
+Algeria 
+ Inflation Rate: 29.8 % 
+ Population: 28,757,788
+ 
+1995
+Ecuador 
+ Inflation Rate: 22.93 % 
+ Population: 11,455,205
+ 
+1995
+Estonia 
+ Inflation Rate: 28.74 % 
+ Population: 1,436,634
+ 
+1995
+Georgia 
+ Inflation Rate: 162.72 % 
+ Population: 4,657,722
+ 
+1995
+Ghana 
+ Inflation Rate: 59.32 % 
+ Population: 17,014,058
+ 
+1995
+Guinea-Bissau 
+ Inflation Rate: 45.13 % 
+ Population: 1,088,850
+ 
+1995
+Honduras 
+ Inflation Rate: 29.48 % 
+ Population: 5,709,010
+ 
+1995
+Haiti 
+ Inflation Rate: 30.2 % 
+ Population: 7,744,509
+ 
+1995
+Hungary 
+ Inflation Rate: 28.31 % 
+ Population: 10,328,965
+ 
+1995
+Iran, Islamic Rep. 
+ Inflation Rate: 49.32 % 
+ Population: 61,442,658
+ 
+1995
+Iraq 
+ Inflation Rate: 387.3 % 
+ Population: 20,149,342
+ 
+1995
+Kazakhstan 
+ Inflation Rate: 176.06 % 
+ Population: 15,816,243
+ 
+1995
+Kyrgyz Republic 
+ Inflation Rate: 42.17 % 
+ Population: 4,560,400
+ 
+1995
+Lithuania 
+ Inflation Rate: 39.65 % 
+ Population: 3,629,102
+ 
+1995
+Latvia 
+ Inflation Rate: 24.98 % 
+ Population: 2,485,056
+ 
+1995
+Moldova 
+ Inflation Rate: 30.22 % 
+ Population: 2,952,307
+ 
+1995
+Madagascar 
+ Inflation Rate: 49.04 % 
+ Population: 13,475,403
+ 
+1995
+Mexico 
+ Inflation Rate: 35.0 % 
+ Population: 91,663,290
+ 
+1995
+Myanmar 
+ Inflation Rate: 25.19 % 
+ Population: 43,901,598
+ 
+1995
+Mozambique 
+ Inflation Rate: 47.67 % 
+ Population: 15,483,277
+ 
+1995
+Malawi 
+ Inflation Rate: 83.15 % 
+ Population: 9,844,418
+ 
+1995
+Nigeria 
+ Inflation Rate: 72.87 % 
+ Population: 107,948,339
+ 
+1995
+Poland 
+ Inflation Rate: 27.95 % 
+ Population: 38,594,998
+ 
+1995
+Romania 
+ Inflation Rate: 32.18 % 
+ Population: 22,684,270
+ 
+1995
+Russian Federation 
+ Inflation Rate: 197.41 % 
+ Population: 148,375,787
+ 
+1995
+Rwanda 
+ Inflation Rate: 55.97 % 
+ Population: 5,836,490
+ 
+1995
+Sudan 
+ Inflation Rate: 68.38 % 
+ Population: 24,094,741
+ 
+1995
+Sierra Leone 
+ Inflation Rate: 25.99 % 
+ Population: 4,303,953
+ 
+1995
+São Tomé and Principe 
+ Inflation Rate: 36.8 % 
+ Population: 131,679
+ 
+1995
+Suriname 
+ Inflation Rate: 24.16 % 
+ Population: 441,851
+ 
+1995
+Tajikistan 
+ Inflation Rate: 612.48 % 
+ Population: 5,764,806
+ 
+1995
+Turkmenistan 
+ Inflation Rate: 1005.26 % 
+ Population: 4,207,841
+ 
+1995
+Turkey 
+ Inflation Rate: 89.11 % 
+ Population: 58,486,453
+ 
+1995
+Tanzania 
+ Inflation Rate: 26.77 % 
+ Population: 29,649,128
+ 
+1995
+Ukraine 
+ Inflation Rate: 376.02 % 
+ Population: 51,512,800
+ 
+1995
+Uruguay 
+ Inflation Rate: 42.26 % 
+ Population: 3,224,275
+ 
+1995
+Uzbekistan 
+ Inflation Rate: 304.6 % 
+ Population: 22,785,000
+ 
+1995
+Venezuela, RB 
+ Inflation Rate: 59.96 % 
+ Population: 21,931,087
+ 
+1995
+Yemen, Rep. 
+ Inflation Rate: 63.89 % 
+ Population: 14,913,313
+ 
+1995
+Zambia 
+ Inflation Rate: 34.84 % 
+ Population: 9,096,608
+ 
+
+1996
+Angola 
+ Inflation Rate: 4146.01 % 
+ Population: 14,400,722
+ 
+1996
+Burundi 
+ Inflation Rate: 26.42 % 
+ Population: 6,060,110
+ 
+1996
+Bulgaria 
+ Inflation Rate: 125.53 % 
+ Population: 8,362,826
+ 
+1996
+Belarus 
+ Inflation Rate: 51.65 % 
+ Population: 10,159,569
+ 
+1996
+Congo, Dem. Rep. 
+ Inflation Rate: 617.0 % 
+ Population: 42,757,239
+ 
+1996
+Colombia 
+ Inflation Rate: 20.8 % 
+ Population: 37,076,387
+ 
+1996
+Ecuador 
+ Inflation Rate: 24.49 % 
+ Population: 11,703,169
+ 
+1996
+Estonia 
+ Inflation Rate: 23.02 % 
+ Population: 1,415,594
+ 
+1996
+Georgia 
+ Inflation Rate: 39.33 % 
+ Population: 4,491,699
+ 
+1996
+Ghana 
+ Inflation Rate: 44.49 % 
+ Population: 17,462,504
+ 
+1996
+Guinea-Bissau 
+ Inflation Rate: 50.93 % 
+ Population: 1,110,835
+ 
+1996
+Honduras 
+ Inflation Rate: 23.82 % 
+ Population: 5,874,814
+ 
+1996
+Haiti 
+ Inflation Rate: 20.58 % 
+ Population: 7,887,312
+ 
+1996
+Hungary 
+ Inflation Rate: 23.47 % 
+ Population: 10,311,238
+ 
+1996
+Iran, Islamic Rep. 
+ Inflation Rate: 23.92 % 
+ Population: 62,294,919
+ 
+1996
+Jamaica 
+ Inflation Rate: 26.43 % 
+ Population: 2,558,631
+ 
+1996
+Kazakhstan 
+ Inflation Rate: 39.24 % 
+ Population: 15,578,227
+ 
+1996
+Kyrgyz Republic 
+ Inflation Rate: 31.95 % 
+ Population: 4,628,400
+ 
+1996
+Lithuania 
+ Inflation Rate: 24.63 % 
+ Population: 3,601,613
+ 
+1996
+Moldova 
+ Inflation Rate: 23.51 % 
+ Population: 2,946,401
+ 
+1996
+Mexico 
+ Inflation Rate: 34.38 % 
+ Population: 93,147,045
+ 
+1996
+Mongolia 
+ Inflation Rate: 46.83 % 
+ Population: 2,316,571
+ 
+1996
+Mozambique 
+ Inflation Rate: 48.49 % 
+ Population: 15,960,445
+ 
+1996
+Malawi 
+ Inflation Rate: 37.73 % 
+ Population: 10,022,783
+ 
+1996
+Nigeria 
+ Inflation Rate: 29.39 % 
+ Population: 110,668,784
+ 
+1996
+Romania 
+ Inflation Rate: 38.87 % 
+ Population: 22,619,004
+ 
+1996
+Russian Federation 
+ Inflation Rate: 47.75 % 
+ Population: 148,160,129
+ 
+1996
+Sudan 
+ Inflation Rate: 86.76 % 
+ Population: 24,782,384
+ 
+1996
+Sierra Leone 
+ Inflation Rate: 23.14 % 
+ Population: 4,312,660
+ 
+1996
+São Tomé and Principe 
+ Inflation Rate: 42.05 % 
+ Population: 133,799
+ 
+1996
+Tajikistan 
+ Inflation Rate: 418.47 % 
+ Population: 5,851,354
+ 
+1996
+Turkmenistan 
+ Inflation Rate: 992.39 % 
+ Population: 4,287,337
+ 
+1996
+Turkey 
+ Inflation Rate: 80.41 % 
+ Population: 59,423,278
+ 
+1996
+Tanzania 
+ Inflation Rate: 21.05 % 
+ Population: 30,444,523
+ 
+1996
+Ukraine 
+ Inflation Rate: 77.82 % 
+ Population: 51,057,800
+ 
+1996
+Uruguay 
+ Inflation Rate: 28.33 % 
+ Population: 3,247,383
+ 
+1996
+Uzbekistan 
+ Inflation Rate: 53.96 % 
+ Population: 23,225,000
+ 
+1996
+Venezuela, RB 
+ Inflation Rate: 99.82 % 
+ Population: 22,385,650
+ 
+1996
+Yemen, Rep. 
+ Inflation Rate: 38.78 % 
+ Population: 15,469,274
+ 
+1996
+Zambia 
+ Inflation Rate: 43.27 % 
+ Population: 9,339,740
+ 
+
+1997
+Angola 
+ Inflation Rate: 221.49 % 
+ Population: 14,871,572
+ 
+1997
+Albania 
+ Inflation Rate: 33.21 % 
+ Population: 3,148,281
+ 
+1997
+Burundi 
+ Inflation Rate: 31.06 % 
+ Population: 6,122,130
+ 
+1997
+Bulgaria 
+ Inflation Rate: 1037.48 % 
+ Population: 8,312,068
+ 
+1997
+Belarus 
+ Inflation Rate: 64.07 % 
+ Population: 10,117,433
+ 
+1997
+Congo, Dem. Rep. 
+ Inflation Rate: 199.0 % 
+ Population: 43,827,191
+ 
+1997
+Ecuador 
+ Inflation Rate: 30.68 % 
+ Population: 11,951,457
+ 
+1997
+Ghana 
+ Inflation Rate: 24.83 % 
+ Population: 17,908,977
+ 
+1997
+Guinea-Bissau 
+ Inflation Rate: 49.06 % 
+ Population: 1,132,505
+ 
+1997
+Honduras 
+ Inflation Rate: 20.2 % 
+ Population: 6,045,704
+ 
+1997
+Iraq 
+ Inflation Rate: 23.1 % 
+ Population: 21,439,579
+ 
+1997
+Kyrgyz Republic 
+ Inflation Rate: 23.43 % 
+ Population: 4,696,400
+ 
+1997
+Mexico 
+ Inflation Rate: 20.63 % 
+ Population: 94,611,008
+ 
+1997
+Myanmar 
+ Inflation Rate: 29.7 % 
+ Population: 45,027,223
+ 
+1997
+Mongolia 
+ Inflation Rate: 35.71 % 
+ Population: 2,335,744
+ 
+1997
+Romania 
+ Inflation Rate: 154.76 % 
+ Population: 22,553,978
+ 
+1997
+Sudan 
+ Inflation Rate: 47.17 % 
+ Population: 25,413,912
+ 
+1997
+São Tomé and Principe 
+ Inflation Rate: 69.05 % 
+ Population: 135,831
+ 
+1997
+Tajikistan 
+ Inflation Rate: 87.96 % 
+ Population: 5,938,404
+ 
+1997
+Turkmenistan 
+ Inflation Rate: 83.72 % 
+ Population: 4,355,125
+ 
+1997
+Turkey 
+ Inflation Rate: 85.67 % 
+ Population: 60,372,571
+ 
+1997
+Uzbekistan 
+ Inflation Rate: 70.86 % 
+ Population: 23,667,000
+ 
+1997
+Venezuela, RB 
+ Inflation Rate: 50.1 % 
+ Population: 22,837,743
+ 
+1997
+Zambia 
+ Inflation Rate: 24.34 % 
+ Population: 9,597,610
+ 
+
+1998
+Angola 
+ Inflation Rate: 107.43 % 
+ Population: 15,359,600
+ 
+1998
+Albania 
+ Inflation Rate: 20.55 % 
+ Population: 3,128,530
+ 
+1998
+Belarus 
+ Inflation Rate: 73.27 % 
+ Population: 10,071,963
+ 
+1998
+Congo, Dem. Rep. 
+ Inflation Rate: 29.15 % 
+ Population: 44,849,968
+ 
+1998
+Ecuador 
+ Inflation Rate: 36.17 % 
+ Population: 12,198,449
+ 
+1998
+Indonesia 
+ Inflation Rate: 58.45 % 
+ Population: 205,724,597
+ 
+1998
+Lao PDR 
+ Inflation Rate: 90.14 % 
+ Population: 5,144,601
+ 
+1998
+Myanmar 
+ Inflation Rate: 49.14 % 
+ Population: 45,611,220
+ 
+1998
+Malawi 
+ Inflation Rate: 29.78 % 
+ Population: 10,552,345
+ 
+1998
+Romania 
+ Inflation Rate: 59.01 % 
+ Population: 22,507,344
+ 
+1998
+Russian Federation 
+ Inflation Rate: 27.69 % 
+ Population: 147,670,784
+ 
+1998
+Sudan 
+ Inflation Rate: 24.62 % 
+ Population: 26,015,518
+ 
+1998
+Sierra Leone 
+ Inflation Rate: 35.99 % 
+ Population: 4,381,484
+ 
+1998
+Serbia 
+ Inflation Rate: 30.0 % 
+ Population: 7,567,745
+ 
+1998
+São Tomé and Principe 
+ Inflation Rate: 42.1 % 
+ Population: 137,855
+ 
+1998
+Tajikistan 
+ Inflation Rate: 43.17 % 
+ Population: 6,027,395
+ 
+1998
+Turkey 
+ Inflation Rate: 84.64 % 
+ Population: 61,329,665
+ 
+1998
+Uzbekistan 
+ Inflation Rate: 28.98 % 
+ Population: 24,051,000
+ 
+1998
+Venezuela, RB 
+ Inflation Rate: 35.78 % 
+ Population: 23,288,567
+ 
+1998
+Zambia 
+ Inflation Rate: 24.62 % 
+ Population: 9,866,474
+ 
+
+1999
+Angola 
+ Inflation Rate: 248.25 % 
+ Population: 15,866,871
+ 
+1999
+Belarus 
+ Inflation Rate: 294.64 % 
+ Population: 10,026,738
+ 
+1999
+Congo, Dem. Rep. 
+ Inflation Rate: 284.9 % 
+ Population: 45,919,615
+ 
+1999
+Ecuador 
+ Inflation Rate: 52.21 % 
+ Population: 12,442,109
+ 
+1999
+Indonesia 
+ Inflation Rate: 20.48 % 
+ Population: 208,615,171
+ 
+1999
+Iran, Islamic Rep. 
+ Inflation Rate: 20.24 % 
+ Population: 64,800,875
+ 
+1999
+Kyrgyz Republic 
+ Inflation Rate: 35.9 % 
+ Population: 4,840,400
+ 
+1999
+Lao PDR 
+ Inflation Rate: 128.41 % 
+ Population: 5,235,339
+ 
+1999
+Moldova 
+ Inflation Rate: 39.26 % 
+ Population: 2,929,735
+ 
+1999
+Malawi 
+ Inflation Rate: 44.76 % 
+ Population: 10,854,325
+ 
+1999
+Romania 
+ Inflation Rate: 45.86 % 
+ Population: 22,472,040
+ 
+1999
+Russian Federation 
+ Inflation Rate: 85.75 % 
+ Population: 147,214,776
+ 
+1999
+Sierra Leone 
+ Inflation Rate: 34.09 % 
+ Population: 4,462,374
+ 
+1999
+Serbia 
+ Inflation Rate: 41.1 % 
+ Population: 7,540,401
+ 
+1999
+Suriname 
+ Inflation Rate: 60.53 % 
+ Population: 465,380
+ 
+1999
+Tajikistan 
+ Inflation Rate: 27.45 % 
+ Population: 6,119,664
+ 
+1999
+Turkmenistan 
+ Inflation Rate: 23.47 % 
+ Population: 4,466,133
+ 
+1999
+Turkey 
+ Inflation Rate: 64.87 % 
+ Population: 62,287,391
+ 
+1999
+Ukraine 
+ Inflation Rate: 22.83 % 
+ Population: 49,674,000
+ 
+1999
+Uzbekistan 
+ Inflation Rate: 29.1 % 
+ Population: 24,311,650
+ 
+1999
+Venezuela, RB 
+ Inflation Rate: 23.58 % 
+ Population: 23,739,835
+ 
+1999
+Zambia 
+ Inflation Rate: 26.75 % 
+ Population: 10,140,564
+ 
+
+2000
+Angola 
+ Inflation Rate: 325.03 % 
+ Population: 16,395,477
+ 
+2000
+Burundi 
+ Inflation Rate: 24.43 % 
+ Population: 6,378,871
+ 
+2000
+Belarus 
+ Inflation Rate: 167.58 % 
+ Population: 9,979,610
+ 
+2000
+Congo, Dem. Rep. 
+ Inflation Rate: 550.0 % 
+ Population: 47,105,830
+ 
+2000
+Ecuador 
+ Inflation Rate: 96.04 % 
+ Population: 12,681,123
+ 
+2000
+Ghana 
+ Inflation Rate: 25.11 % 
+ Population: 19,278,850
+ 
+2000
+Moldova 
+ Inflation Rate: 31.21 % 
+ Population: 2,923,783
+ 
+2000
+Montenegro 
+ Inflation Rate: 29.86 % 
+ Population: 604,950
+ 
+2000
+Malawi 
+ Inflation Rate: 29.6 % 
+ Population: 11,148,751
+ 
+2000
+Romania 
+ Inflation Rate: 45.63 % 
+ Population: 22,442,971
+ 
+2000
+Russian Federation 
+ Inflation Rate: 20.8 % 
+ Population: 146,596,869
+ 
+2000
+Serbia 
+ Inflation Rate: 70.0 % 
+ Population: 7,516,346
+ 
+2000
+Suriname 
+ Inflation Rate: 29.56 % 
+ Population: 470,944
+ 
+2000
+Tajikistan 
+ Inflation Rate: 32.85 % 
+ Population: 6,216,329
+ 
+2000
+Turkey 
+ Inflation Rate: 54.92 % 
+ Population: 63,240,196
+ 
+2000
+Ukraine 
+ Inflation Rate: 28.26 % 
+ Population: 49,176,500
+ 
+2000
+Uzbekistan 
+ Inflation Rate: 25.01 % 
+ Population: 24,650,400
+ 
+2000
+Zambia 
+ Inflation Rate: 26.07 % 
+ Population: 10,415,942
+ 
+
+2001
+Angola 
+ Inflation Rate: 152.59 % 
+ Population: 16,945,753
+ 
+2001
+Belarus 
+ Inflation Rate: 60.85 % 
+ Population: 9,928,549
+ 
+2001
+Congo, Dem. Rep. 
+ Inflation Rate: 357.28 % 
+ Population: 48,428,534
+ 
+2001
+Ecuador 
+ Inflation Rate: 37.44 % 
+ Population: 12,914,660
+ 
+2001
+Ghana 
+ Inflation Rate: 32.93 % 
+ Population: 19,756,929
+ 
+2001
+Myanmar 
+ Inflation Rate: 34.5 % 
+ Population: 47,225,119
+ 
+2001
+Montenegro 
+ Inflation Rate: 23.73 % 
+ Population: 607,389
+ 
+2001
+Romania 
+ Inflation Rate: 34.43 % 
+ Population: 22,131,970
+ 
+2001
+Russian Federation 
+ Inflation Rate: 21.48 % 
+ Population: 145,976,482
+ 
+2001
+Serbia 
+ Inflation Rate: 80.74 % 
+ Population: 7,503,433
+ 
+2001
+Suriname 
+ Inflation Rate: 34.37 % 
+ Population: 476,574
+ 
+2001
+Tajikistan 
+ Inflation Rate: 38.55 % 
+ Population: 6,318,510
+ 
+2001
+Turkey 
+ Inflation Rate: 54.4 % 
+ Population: 64,192,243
+ 
+2001
+Uzbekistan 
+ Inflation Rate: 27.25 % 
+ Population: 24,964,450
+ 
+2001
+Zambia 
+ Inflation Rate: 21.24 % 
+ Population: 10,692,197
+ 
+
+2002
+Afghanistan 
+ Inflation Rate: 51.93 % 
+ Population: 22,600,774
+ 
+2002
+Angola 
+ Inflation Rate: 108.89 % 
+ Population: 17,519,418
+ 
+2002
+Argentina 
+ Inflation Rate: 25.87 % 
+ Population: 37,681,743
+ 
+2002
+Belarus 
+ Inflation Rate: 42.65 % 
+ Population: 9,865,548
+ 
+2002
+Congo, Dem. Rep. 
+ Inflation Rate: 25.32 % 
+ Population: 49,871,670
+ 
+2002
+Myanmar 
+ Inflation Rate: 58.1 % 
+ Population: 47,702,163
+ 
+2002
+Romania 
+ Inflation Rate: 22.51 % 
+ Population: 21,730,496
+ 
+2002
+Sudan 
+ Inflation Rate: 22.23 % 
+ Population: 28,704,786
+ 
+2002
+Turkey 
+ Inflation Rate: 44.96 % 
+ Population: 65,145,357
+ 
+2002
+Uzbekistan 
+ Inflation Rate: 27.29 % 
+ Population: 25,271,850
+ 
+2002
+Venezuela, RB 
+ Inflation Rate: 22.43 % 
+ Population: 25,100,407
+ 
+2002
+Zambia 
+ Inflation Rate: 22.3 % 
+ Population: 10,971,704
+ 
+
+2003
+Afghanistan 
+ Inflation Rate: 35.66 % 
+ Population: 23,680,871
+ 
+2003
+Angola 
+ Inflation Rate: 98.22 % 
+ Population: 18,121,477
+ 
+2003
+Belarus 
+ Inflation Rate: 28.49 % 
+ Population: 9,796,749
+ 
+2003
+Dominican Republic 
+ Inflation Rate: 27.46 % 
+ Population: 8,850,317
+ 
+2003
+Eritrea 
+ Inflation Rate: 22.67 % 
+ Population: 2,600,972
+ 
+2003
+Ghana 
+ Inflation Rate: 26.63 % 
+ Population: 20,750,308
+ 
+2003
+Haiti 
+ Inflation Rate: 26.73 % 
+ Population: 8,900,108
+ 
+2003
+Iraq 
+ Inflation Rate: 33.6 % 
+ Population: 25,644,503
+ 
+2003
+Myanmar 
+ Inflation Rate: 24.95 % 
+ Population: 48,148,907
+ 
+2003
+Suriname 
+ Inflation Rate: 23.0 % 
+ Population: 487,938
+ 
+2003
+Turkey 
+ Inflation Rate: 21.6 % 
+ Population: 66,089,402
+ 
+2003
+Venezuela, RB 
+ Inflation Rate: 31.09 % 
+ Population: 25,551,624
+ 
+2003
+Zambia 
+ Inflation Rate: 21.31 % 
+ Population: 11,256,740
+ 
+
+2004
+Angola 
+ Inflation Rate: 43.53 % 
+ Population: 18,758,138
+ 
+2004
+Dominican Republic 
+ Inflation Rate: 51.3 % 
+ Population: 8,974,444
+ 
+2004
+Eritrea 
+ Inflation Rate: 25.11 % 
+ Population: 2,719,809
+ 
+2004
+Haiti 
+ Inflation Rate: 28.32 % 
+ Population: 9,047,082
+ 
+2004
+Iraq 
+ Inflation Rate: 27.0 % 
+ Population: 26,313,838
+ 
+2004
+Venezuela, RB 
+ Inflation Rate: 21.75 % 
+ Population: 25,996,594
+ 
+2004
+Zimbabwe 
+ Inflation Rate: 113.57 % 
+ Population: 12,019,911
+ 
+
+2005
+Angola 
+ Inflation Rate: 22.96 % 
+ Population: 19,433,604
+ 
+2005
+Congo, Dem. Rep. 
+ Inflation Rate: 21.55 % 
+ Population: 54,785,894
+ 
+2005
+Guinea 
+ Inflation Rate: 31.36 % 
+ Population: 9,109,585
+ 
+2005
+Iraq 
+ Inflation Rate: 36.96 % 
+ Population: 26,922,279
+ 
+
+2006
+Guinea 
+ Inflation Rate: 34.7 % 
+ Population: 9,307,421
+ 
+2006
+Iraq 
+ Inflation Rate: 53.25 % 
+ Population: 27,448,124
+ 
+2006
+Myanmar 
+ Inflation Rate: 26.33 % 
+ Population: 49,301,049
+ 
+2006
+São Tomé and Principe 
+ Inflation Rate: 23.08 % 
+ Population: 161,676
+ 
+2006
+Zimbabwe 
+ Inflation Rate: 32.97 % 
+ Population: 12,155,496
+ 
+
+2007
+Guinea 
+ Inflation Rate: 22.86 % 
+ Population: 9,518,159
+ 
+2007
+Iraq 
+ Inflation Rate: 30.82 % 
+ Population: 27,911,242
+ 
+2007
+Myanmar 
+ Inflation Rate: 30.93 % 
+ Population: 49,621,479
+ 
+
+2008
+Afghanistan 
+ Inflation Rate: 26.42 % 
+ Population: 27,722,281
+ 
+2008
+Azerbaijan 
+ Inflation Rate: 20.8 % 
+ Population: 8,763,400
+ 
+2008
+Burundi 
+ Inflation Rate: 24.41 % 
+ Population: 8,126,104
+ 
+2008
+Ethiopia 
+ Inflation Rate: 44.37 % 
+ Population: 82,916,236
+ 
+2008
+Iran, Islamic Rep. 
+ Inflation Rate: 25.3 % 
+ Population: 72,120,608
+ 
+2008
+Jamaica 
+ Inflation Rate: 22.01 % 
+ Population: 2,781,869
+ 
+2008
+Kyrgyz Republic 
+ Inflation Rate: 24.5 % 
+ Population: 5,318,700
+ 
+2008
+Cambodia 
+ Inflation Rate: 25.0 % 
+ Population: 13,883,835
+ 
+2008
+Mongolia 
+ Inflation Rate: 26.74 % 
+ Population: 2,631,899
+ 
+2008
+São Tomé and Principe 
+ Inflation Rate: 31.99 % 
+ Population: 171,122
+ 
+2008
+Seychelles 
+ Inflation Rate: 36.97 % 
+ Population: 86,956
+ 
+2008
+Tajikistan 
+ Inflation Rate: 20.51 % 
+ Population: 7,209,924
+ 
+2008
+Ukraine 
+ Inflation Rate: 25.2 % 
+ Population: 46,258,189
+ 
+2008
+Venezuela, RB 
+ Inflation Rate: 30.37 % 
+ Population: 27,635,827
+ 
+2008
+Vietnam 
+ Inflation Rate: 23.11 % 
+ Population: 86,243,424
+ 
+2008
+Zimbabwe 
+ Inflation Rate: 156.96 % 
+ Population: 12,379,553
+ 
+
+2009
+Congo, Dem. Rep. 
+ Inflation Rate: 46.1 % 
+ Population: 62,448,572
+ 
+2009
+Eritrea 
+ Inflation Rate: 33.04 % 
+ Population: 3,119,920
+ 
+2009
+Nauru 
+ Inflation Rate: 22.42 % 
+ Population: 9,945
+ 
+2009
+Seychelles 
+ Inflation Rate: 31.75 % 
+ Population: 87,298
+ 
+2009
+Venezuela, RB 
+ Inflation Rate: 27.07 % 
+ Population: 28,031,010
+ 
+
+2010
+Congo, Dem. Rep. 
+ Inflation Rate: 23.46 % 
+ Population: 64,563,853
+ 
+2010
+Venezuela, RB 
+ Inflation Rate: 28.17 % 
+ Population: 28,439,942
+ 
+
+2011
+Belarus 
+ Inflation Rate: 53.17 % 
+ Population: 9,461,643
+ 
+2011
+Ethiopia 
+ Inflation Rate: 33.23 % 
+ Population: 90,139,928
+ 
+2011
+Guinea 
+ Inflation Rate: 21.35 % 
+ Population: 10,420,459
+ 
+2011
+Iran, Islamic Rep. 
+ Inflation Rate: 21.53 % 
+ Population: 74,634,959
+ 
+2011
+Venezuela, RB 
+ Inflation Rate: 26.08 % 
+ Population: 28,887,873
+ 
+
+2012
+Belarus 
+ Inflation Rate: 59.5 % 
+ Population: 9,446,836
+ 
+2012
+Ethiopia 
+ Inflation Rate: 24.13 % 
+ Population: 92,726,982
+ 
+2012
+Iran, Islamic Rep. 
+ Inflation Rate: 30.57 % 
+ Population: 75,539,881
+ 
+2012
+Malawi 
+ Inflation Rate: 21.3 % 
+ Population: 15,396,010
+ 
+2012
+Sudan 
+ Inflation Rate: 35.56 % 
+ Population: 36,193,781
+ 
+2012
+South Sudan 
+ Inflation Rate: 45.08 % 
+ Population: 10,113,648
+ 
+2012
+Syrian Arab Republic 
+ Inflation Rate: 36.7 % 
+ Population: 20,438,861
+ 
+2012
+Venezuela, RB 
+ Inflation Rate: 21.06 % 
+ Population: 29,360,827
+ 
+
+2013
+Iran, Islamic Rep. 
+ Inflation Rate: 36.58 % 
+ Population: 76,481,963
+ 
+2013
+Malawi 
+ Inflation Rate: 28.28 % 
+ Population: 15,839,287
+ 
+2013
+Sudan 
+ Inflation Rate: 36.52 % 
+ Population: 37,072,555
+ 
+2013
+Syrian Arab Republic 
+ Inflation Rate: 90.0 % 
+ Population: 19,578,466
+ 
+2013
+Venezuela, RB 
+ Inflation Rate: 40.59 % 
+ Population: 29,781,046
+ 
+
+2014
+Argentina 
+ Inflation Rate: 38.08 % 
+ Population: 42,669,500
+ 
+2014
+Malawi 
+ Inflation Rate: 23.77 % 
+ Population: 16,289,550
+ 
+2014
+Sudan 
+ Inflation Rate: 36.91 % 
+ Population: 37,977,657
+ 
+2014
+Syrian Arab Republic 
+ Inflation Rate: 29.0 % 
+ Population: 18,710,711
+ 
+2014
+Venezuela, RB 
+ Inflation Rate: 62.14 % 
+ Population: 30,042,973
+ 
+
+2015
+Argentina 
+ Inflation Rate: 26.54 % 
+ Population: 43,131,966
+ 
+2015
+Malawi 
+ Inflation Rate: 21.86 % 
+ Population: 16,745,305
+ 
+2015
+South Sudan 
+ Inflation Rate: 52.81 % 
+ Population: 10,715,657
+ 
+2015
+Syrian Arab Republic 
+ Inflation Rate: 26.0 % 
+ Population: 17,997,411
+ 
+2015
+Ukraine 
+ Inflation Rate: 48.57 % 
+ Population: 45,154,036
+ 
+2015
+Venezuela, RB 
+ Inflation Rate: 121.4 % 
+ Population: 30,081,827
+ 
+2015
+Yemen, Rep. 
+ Inflation Rate: 39.4 % 
+ Population: 26,497,881
+ 
+
+2016
+Angola 
+ Inflation Rate: 32.38 % 
+ Population: 28,842,482
+ 
+2016
+Argentina 
+ Inflation Rate: 39.4 % 
+ Population: 43,590,368
+ 
+2016
+Libya 
+ Inflation Rate: 25.88 % 
+ Population: 6,492,160
+ 
+2016
+Malawi 
+ Inflation Rate: 21.73 % 
+ Population: 17,205,253
+ 
+2016
+South Sudan 
+ Inflation Rate: 379.85 % 
+ Population: 10,832,520
+ 
+2016
+Suriname 
+ Inflation Rate: 55.5 % 
+ Population: 564,883
+ 
+2016
+Syrian Arab Republic 
+ Inflation Rate: 25.0 % 
+ Population: 17,465,567
+ 
+2016
+Venezuela, RB 
+ Inflation Rate: 254.39 % 
+ Population: 29,851,249
+ 
+
+2017
+Angola 
+ Inflation Rate: 29.84 % 
+ Population: 29,816,769
+ 
+2017
+Argentina 
+ Inflation Rate: 25.68 % 
+ Population: 44,044,811
+ 
+2017
+Congo, Dem. Rep. 
+ Inflation Rate: 35.79 % 
+ Population: 81,398,765
+ 
+2017
+Egypt, Arab Rep. 
+ Inflation Rate: 23.54 % 
+ Population: 96,442,590
+ 
+2017
+Libya 
+ Inflation Rate: 28.47 % 
+ Population: 6,580,723
+ 
+2017
+Sudan 
+ Inflation Rate: 32.35 % 
+ Population: 40,813,398
+ 
+2017
+South Sudan 
+ Inflation Rate: 187.87 % 
+ Population: 10,910,774
+ 
+2017
+Suriname 
+ Inflation Rate: 22.02 % 
+ Population: 570,501
+ 
+2017
+Venezuela, RB 
+ Inflation Rate: 438.12 % 
+ Population: 29,402,480
+ 
+2017
+Yemen, Rep. 
+ Inflation Rate: 30.4 % 
+ Population: 27,834,811
+ 
+
+2018
+Argentina 
+ Inflation Rate: 34.28 % 
+ Population: 44,494,502
+ 
+2018
+Congo, Dem. Rep. 
+ Inflation Rate: 29.27 % 
+ Population: 84,068,092
+ 
+2018
+Liberia 
+ Inflation Rate: 23.56 % 
+ Population: 4,818,976
+ 
+2018
+Sudan 
+ Inflation Rate: 63.29 % 
+ Population: 41,801,532
+ 
+2018
+South Sudan 
+ Inflation Rate: 83.49 % 
+ Population: 10,975,924
+ 
+2018
+Venezuela, RB 
+ Inflation Rate: 65374.08 % 
+ Population: 28,887,117
+ 
+2018
+Yemen, Rep. 
+ Inflation Rate: 27.6 % 
+ Population: 28,498,683
+ 
+
+2019
+Argentina 
+ Inflation Rate: 53.55 % 
+ Population: 44,938,712
+ 
+2019
+Iran, Islamic Rep. 
+ Inflation Rate: 41.02 % 
+ Population: 82,913,893
+ 
+2019
+Liberia 
+ Inflation Rate: 26.97 % 
+ Population: 4,937,374
+ 
+2019
+Sudan 
+ Inflation Rate: 50.99 % 
+ Population: 42,813,237
+ 
+2019
+South Sudan 
+ Inflation Rate: 51.19 % 
+ Population: 11,062,114
+ 
+2019
+Venezuela, RB 
+ Inflation Rate: 19906.02 % 
+ Population: 28,515,829
+ 
+2019
+Zimbabwe 
+ Inflation Rate: 255.29 % 
+ Population: 14,645,473
+ 
+
+2020
+Angola 
+ Inflation Rate: 21.02 % 
+ Population: 32,866,268
+ 
+2020
+Argentina 
+ Inflation Rate: 42.02 % 
+ Population: 45,376,763
+ 
+2020
+Ethiopia 
+ Inflation Rate: 20.35 % 
+ Population: 114,963,583
+ 
+2020
+Haiti 
+ Inflation Rate: 22.8 % 
+ Population: 11,402,533
+ 
+2020
+Iran, Islamic Rep. 
+ Inflation Rate: 36.5 % 
+ Population: 83,992,953
+ 
+2020
+Lebanon 
+ Inflation Rate: 84.86 % 
+ Population: 6,825,442
+ 
+2020
+Libya 
+ Inflation Rate: 22.26 % 
+ Population: 6,871,287
+ 
+2020
+Sudan 
+ Inflation Rate: 17087.72 % 
+ Population: 43,849,269
+ 
+2020
+South Sudan 
+ Inflation Rate: 29.68 % 
+ Population: 11,193,729
+ 
+2020
+Suriname 
+ Inflation Rate: 49.77 % 
+ Population: 586,634
+ 
+2020
+Venezuela, RB 
+ Inflation Rate: 2355.15 % 
+ Population: 28,435,943
+ 
+2020
+Yemen, Rep. 
+ Inflation Rate: 26.18 % 
+ Population: 29,825,968
+ 
+2020
+Zimbabwe 
+ Inflation Rate: 557.21 % 
+ Population: 14,862,927
+ 
+
+2021
+Angola 
+ Inflation Rate: 23.85 % 
+ Population: 33,933,611
+ 
+2021
+Argentina 
+ Inflation Rate: 48.41 % 
+ Population: 45,808,747
+ 
+2021
+Ethiopia 
+ Inflation Rate: 26.84 % 
+ Population: 117,876,226
+ 
+2021
+Iran, Islamic Rep. 
+ Inflation Rate: 43.39 % 
+ Population: 85,028,760
+ 
+2021
+Lebanon 
+ Inflation Rate: 154.76 % 
+ Population: 6,769,151
+ 
+2021
+Sudan 
+ Inflation Rate: 359.09 % 
+ Population: 44,909,351
+ 
+2021
+South Sudan 
+ Inflation Rate: 40.0 % 
+ Population: 11,381,377
+ 
+2021
+Suriname 
+ Inflation Rate: 59.11 % 
+ Population: 591,798
+ 
+2021
+Venezuela, RB 
+ Inflation Rate: 1588.51 % 
+ Population: 28,704,947
+ 
+2021
+Yemen, Rep. 
+ Inflation Rate: 30.61 % 
+ Population: 30,490,639
+ 
+2021
+Zambia 
+ Inflation Rate: 22.02 % 
+ Population: 18,920,657
+ 
+2021
+Zimbabwe 
+ Inflation Rate: 98.55 % 
+ Population: 15,092,171
+ 60.406464443037976% of the world's population have experienced inflation over 20% since 1961
